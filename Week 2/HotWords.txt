@@ -1,0 +1,83 @@
+ATC Hot Words
+-------------
+
+Flight Level
+Runway
+Climb
+Descent
+Fly
+Heading
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Niner
+Ten
+Turn
+Left
+Right
+Clear
+Take off
+Clearance
+Tower
+Ground
+Departure
+Arrival
+Approach
+Report
+Finals
+Upwind
+Downwind
+Surface Wind
+Degrees
+Knots
+Land
+Contact
+Switch
+Thousand 
+One Zero Thousand
+Request
+ATC
+Decimal
+Fuel
+Alpha
+Bravo
+Charlie
+Delta
+Echo
+Foxtrot
+Golf
+Hotel
+India
+Juliett
+Kilo
+Lima
+Mike
+November
+Oscar
+Papa
+Quebec
+Romeo
+Sierra
+Tango
+Uniform
+Victor
+Whiskey
+X-ray
+Yankee
+Zulu
+Speed
+Control
+Taxi
+Holding
+squawk
+flight plan
+radio check
+roll
+overshoot
+
+
