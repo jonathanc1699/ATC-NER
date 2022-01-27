@@ -1,46 +1,1326 @@
-Flight Level
-Runway
-Climb
-Descent
-Fly
-Heading
-One
-Two
-Three
-Four
-Five
-Six
-Seven
-Eight
-Niner
-Ten
-Turn
-Left
-Right
-Clear
-Take off
-Clearance
-Tower
-Ground
-Departure
-Arrival
-Approach
-Report
-Finals
-Upwind
-Downwind
+Flight Level one zero zero 
+Flight Level one zero five 
+Flight Level one one zero 
+Flight Level one one five 
+Flight Level one two zero 
+Flight Level one two five 
+Flight Level one three zero 
+Flight Level one three five 
+Flight Level one four zero 
+Flight Level one four five 
+Flight Level one five zero 
+Flight Level one five five 
+Flight Level one six zero 
+Flight Level one six five 
+Flight Level one seven zero 
+Flight Level one seven five 
+Flight Level one eight zero 
+Flight Level one eight five 
+Flight Level one niner zero 
+Flight Level one niner five 
+Flight Level two zero zero 
+Flight Level two zero five 
+Flight Level two one zero 
+Flight Level two one five 
+Flight Level two two zero 
+Flight Level two two five 
+Flight Level two three zero 
+Flight Level two three five 
+Flight Level two four zero 
+Flight Level two four five 
+Flight Level two five zero 
+Flight Level two five five 
+Flight Level two six zero 
+Flight Level two six five 
+Flight Level two seven zero 
+Flight Level two seven five 
+Flight Level two eight zero 
+Flight Level two eight five 
+Flight Level two niner zero 
+Flight Level two niner five 
+Flight Level three zero zero 
+Flight Level three zero five 
+Flight Level three one zero 
+Flight Level three one five 
+Flight Level three two zero 
+Flight Level three two five 
+Flight Level three three zero 
+Flight Level three three five 
+Flight Level three four zero 
+Flight Level three four five 
+Flight Level three five zero 
+Flight Level three five five 
+Flight Level three six zero 
+Flight Level three six five 
+Flight Level three seven zero 
+Flight Level three seven five 
+Flight Level three eight zero 
+Flight Level three eight five 
+Flight Level three niner zero 
+Flight Level three niner five 
+Flight Level four zero zero 
+Flight Level four zero five 
+Flight Level four one zero 
+Flight Level four one five 
+Flight Level four two zero 
+Flight Level four two five 
+Flight Level four three zero 
+Flight Level four three five 
+Flight Level four four zero 
+Flight Level four four five 
+Flight Level four five zero 
+Runway zero one 
+Runway zero two 
+Runway zero three 
+Runway zero four 
+Runway zero five 
+Runway zero six 
+Runway zero seven 
+Runway zero eight 
+Runway zero niner 
+Runway one zero 
+Runway one zero 
+Runway one one 
+Runway one two 
+Runway one three 
+Runway one four 
+Runway one five 
+Runway one six 
+Runway one seven 
+Runway one eight 
+Runway one niner 
+Runway two zero 
+Runway two one 
+Runway two two 
+Runway two three 
+Runway two four 
+Runway two five 
+Runway two six 
+Runway two seven 
+Runway two eight 
+Runway two niner 
+Runway three zero 
+Runway three one 
+Runway three two 
+Runway three three 
+Runway three four 
+Runway three five 
+Runway three six 
+Runway zero one left
+Runway zero two left
+Runway zero three left
+Runway zero four left
+Runway zero five left
+Runway zero six left
+Runway zero seven left
+Runway zero eight left
+Runway zero niner left
+Runway one zero left
+Runway one zero left
+Runway one one left
+Runway one two left
+Runway one three left
+Runway one four left
+Runway one five left
+Runway one six left
+Runway one seven left
+Runway one eight left
+Runway one niner left
+Runway two zero left
+Runway two one left
+Runway two two left
+Runway two three left
+Runway two four left
+Runway two five left
+Runway two six left
+Runway two seven left
+Runway two eight left
+Runway two niner left
+Runway three zero left
+Runway three one left
+Runway three two left
+Runway three three left
+Runway three four left
+Runway three five left
+Runway three six left
+Runway zero one right
+Runway zero two right
+Runway zero three right
+Runway zero four right
+Runway zero five right
+Runway zero six right
+Runway zero seven right
+Runway zero eight right
+Runway zero niner right
+Runway one zero right
+Runway one zero right
+Runway one one right
+Runway one two right
+Runway one three right
+Runway one four right
+Runway one five right
+Runway one six right
+Runway one seven right
+Runway one eight right
+Runway one niner right
+Runway two zero right
+Runway two one right
+Runway two two right
+Runway two three right
+Runway two four right
+Runway two five right
+Runway two six right
+Runway two seven right
+Runway two eight right
+Runway two niner right
+Runway three zero right
+Runway three one right
+Runway three two right
+Runway three three right
+Runway three four right
+Runway three five right
+Runway three six right
+Climb five hundred feet
+Climb one thousand feet
+Climb one thousand five hundred feet
+Climb two thousand feet
+Climb two thousand five hundred feet
+Climb three thousand feet
+Climb three thousand five hundred feet
+Climb four thousand feet
+Climb five thousand feet
+Climb five thousand five hundred feet
+Climb six thousand feet
+Climb six thousand five hundred feet
+Climb seven thousand feet
+Climb seven thousand five hundred feet
+Climb eight thousand feet
+Climb eight thousand five hundred feet
+Climb niner thousand feet
+Climb niner thousand five hundred feet
+Climb one zero thousand feet
+Climb flight level 
+Descent five hundred feet
+Descent one thousand feet
+Descent one thousand five hundred feet
+Descent two thousand feet
+Descent two thousand five hundred feet
+Descent three thousand feet
+Descent three thousand five hundred feet
+Descent four thousand feet
+Descent five thousand feet
+Descent five thousand five hundred feet
+Descent six thousand feet
+Descent six thousand five hundred feet
+Descent seven thousand feet
+Descent seven thousand five hundred feet
+Descent eight thousand feet
+Descent eight thousand five hundred feet
+Descent niner thousand feet
+Descent niner thousand five hundred feet
+Descent one zero thousand feet
+Descent flight level 
+Heading zero zero five 
+Heading zero one zero 
+Heading zero one five 
+Heading zero two zero 
+Heading zero two five 
+Heading zero three zero 
+Heading zero three five 
+Heading zero four zero 
+Heading zero four five 
+Heading zero five zero 
+Heading zero five five 
+Heading zero six zero 
+Heading zero six five 
+Heading zero seven zero 
+Heading zero seven five 
+Heading zero eight zero 
+Heading zero eight five 
+Heading zero niner zero 
+Heading zero niner five 
+Heading one zero zero 
+Heading one zero five 
+Heading one one zero 
+Heading one one five 
+Heading one two zero 
+Heading one two five 
+Heading one three zero 
+Heading one three five 
+Heading one four zero 
+Heading one four five 
+Heading one five zero 
+Heading one five five 
+Heading one six zero 
+Heading one six five 
+Heading one seven zero 
+Heading one seven five 
+Heading one eight zero 
+Heading one eight five 
+Heading one niner zero 
+Heading one niner five 
+Heading two zero zero 
+Heading two zero five 
+Heading two one zero 
+Heading two one five 
+Heading two two zero 
+Heading two two five 
+Heading two three zero 
+Heading two three five 
+Heading two four zero 
+Heading two four five 
+Heading two five zero 
+Heading two five five 
+Heading two six zero 
+Heading two six five 
+Heading two seven zero 
+Heading two seven five 
+Heading two eight zero 
+Heading two eight five 
+Heading two niner zero 
+Heading two niner five 
+Heading three zero zero 
+Heading three zero five 
+Heading three one zero 
+Heading three one five 
+Heading three two zero 
+Heading three two five 
+Heading three three zero 
+Heading three three five 
+Heading three four zero 
+Heading three four five 
+Heading three five zero 
+Heading three five five 
+Heading three six zero 
+Fly heading
+Maintain heading
+Turn left heading
+Turn right heading
+Clear take off runway
+Clear for take off
+A T C clearance
+Singapore tower
+Singapore ground
+Singapore departure
+Singapore arrival
+Singapore approach
+Report finals
+Report upwind
+Report downwind
 Surface Wind
-Degrees
-Knots
-Land
-Contact
-Switch
-Thousand 
+zero zero five degrees
+zero one zero degrees
+zero one five degrees
+zero two zero degrees
+zero two five degrees
+zero three zero degrees
+zero three five degrees
+zero four zero degrees
+zero four five degrees
+zero five zero degrees
+zero five five degrees
+zero six zero degrees
+zero six five degrees
+zero seven zero degrees
+zero seven five degrees
+zero eight zero degrees
+zero eight five degrees
+zero niner zero degrees
+zero niner five degrees
+one zero zero degrees
+one zero five degrees
+one one zero degrees
+one one five degrees
+one two zero degrees
+one two five degrees
+one three zero degrees
+one three five degrees
+one four zero degrees
+one four five degrees
+one five zero degrees
+one five five degrees
+one six zero degrees
+one six five degrees
+one seven zero degrees
+one seven five degrees
+one eight zero degrees
+one eight five degrees
+one niner zero degrees
+one niner five degrees
+two zero zero degrees
+two zero five degrees
+two one zero degrees
+two one five degrees
+two two zero degrees
+two two five degrees
+two three zero degrees
+two three five degrees
+two four zero degrees
+two four five degrees
+two five zero degrees
+two five five degrees
+two six zero degrees
+two six five degrees
+two seven zero degrees
+two seven five degrees
+two eight zero degrees
+two eight five degrees
+two niner zero degrees
+two niner five degrees
+three zero zero degrees
+three zero five degrees
+three one zero degrees
+three one five degrees
+three two zero degrees
+three two five degrees
+three three zero degrees
+three three five degrees
+three four zero degrees
+three four five degrees
+three five zero degrees
+three five five degrees
+three six zero degrees
+zero one knots
+zero two knots
+zero three knots
+zero four knots
+zero five knots
+zero six knots
+zero seven knots
+zero eight knots
+zero niner knots
+one zero knots
+one one knots
+one two knots
+one three knots
+one four knots
+one five knots
+one six knots
+one seven knots
+one eight knots
+one niner knots
+two zero knots
+two one knots
+two two knots
+two three knots
+two four knots
+two five knots
+two six knots
+two seven knots
+two eight knots
+two niner knots
+three zero knots
+three one knots
+three two knots
+three three knots
+three four knots
+three five knots
+three six knots
+three seven knots
+three eight knots
+three niner knots
+four zero knots
+four one knots
+four two knots
+four three knots
+four four knots
+four five knots
+four six knots
+four seven knots
+four eight knots
+four niner knots
+five zero knots
+five one knots
+five two knots
+five three knots
+five four knots
+five five knots
+five six knots
+five seven knots
+five eight knots
+five niner knots
+six zero knots
+six one knots
+six two knots
+six three knots
+six four knots
+six five knots
+six six knots
+six seven knots
+six eight knots
+six niner knots
+seven zero knots
+seven one knots
+seven two knots
+seven three knots
+seven four knots
+seven five knots
+seven six knots
+seven seven knots
+seven eight knots
+seven niner knots
+eight zero knots
+eight one knots
+eight two knots
+eight three knots
+eight four knots
+eight five knots
+eight six knots
+eight seven knots
+eight eight knots
+eight niner knots
+niner zero knots
+niner one knots
+niner two knots
+niner three knots
+niner four knots
+niner five knots
+niner six knots
+niner seven knots
+niner eight knots
+niner niner knots
+one zero zero knots
+one zero one knots
+one zero two knots
+one zero three knots
+one zero four knots
+one zero five knots
+one zero six knots
+one zero seven knots
+one zero eight knots
+one zero niner knots
+one one zero knots
+one one one knots
+one one two knots
+one one three knots
+one one four knots
+one one five knots
+one one six knots
+one one seven knots
+one one eight knots
+one one niner knots
+one two zero knots
+one two one knots
+one two two knots
+one two three knots
+one two four knots
+one two five knots
+one two six knots
+one two seven knots
+one two eight knots
+one two niner knots
+one three zero knots
+one three one knots
+one three two knots
+one three three knots
+one three four knots
+one three five knots
+one three six knots
+one three seven knots
+one three eight knots
+one three niner knots
+one four zero knots
+one four one knots
+one four two knots
+one four three knots
+one four four knots
+one four five knots
+one four six knots
+one four seven knots
+one four eight knots
+one four niner knots
+one five zero knots
+one five one knots
+one five two knots
+one five three knots
+one five four knots
+one five five knots
+one five six knots
+one five seven knots
+one five eight knots
+one five niner knots
+one six zero knots
+one six one knots
+one six two knots
+one six three knots
+one six four knots
+one six five knots
+one six six knots
+one six seven knots
+one six eight knots
+one six niner knots
+one seven zero knots
+one seven one knots
+one seven two knots
+one seven three knots
+one seven four knots
+one seven five knots
+one seven six knots
+one seven seven knots
+one seven eight knots
+one seven niner knots
+one eight zero knots
+one eight one knots
+one eight two knots
+one eight three knots
+one eight four knots
+one eight five knots
+one eight six knots
+one eight seven knots
+one eight eight knots
+one eight niner knots
+one niner zero knots
+one niner one knots
+one niner two knots
+one niner three knots
+one niner four knots
+one niner five knots
+one niner six knots
+one niner seven knots
+one niner eight knots
+one niner niner knots
+two zero zero knots
+two zero one knots
+two zero two knots
+two zero three knots
+two zero four knots
+two zero five knots
+two zero six knots
+two zero seven knots
+two zero eight knots
+two zero niner knots
+two one zero knots
+two one one knots
+two one two knots
+two one three knots
+two one four knots
+two one five knots
+two one six knots
+two one seven knots
+two one eight knots
+two one niner knots
+two two zero knots
+two two one knots
+two two two knots
+two two three knots
+two two four knots
+two two five knots
+two two six knots
+two two seven knots
+two two eight knots
+two two niner knots
+two three zero knots
+two three one knots
+two three two knots
+two three three knots
+two three four knots
+two three five knots
+two three six knots
+two three seven knots
+two three eight knots
+two three niner knots
+two four zero knots
+two four one knots
+two four two knots
+two four three knots
+two four four knots
+two four five knots
+two four six knots
+two four seven knots
+two four eight knots
+two four niner knots
+two five zero knots
+two five one knots
+two five two knots
+two five three knots
+two five four knots
+two five five knots
+two five six knots
+two five seven knots
+two five eight knots
+two five niner knots
+two six zero knots
+two six one knots
+two six two knots
+two six three knots
+two six four knots
+two six five knots
+two six six knots
+two six seven knots
+two six eight knots
+two six niner knots
+two seven zero knots
+two seven one knots
+two seven two knots
+two seven three knots
+two seven four knots
+two seven five knots
+two seven six knots
+two seven seven knots
+two seven eight knots
+two seven niner knots
+two eight zero knots
+two eight one knots
+two eight two knots
+two eight three knots
+two eight four knots
+two eight five knots
+two eight six knots
+two eight seven knots
+two eight eight knots
+two eight niner knots
+two niner zero knots
+two niner one knots
+two niner two knots
+two niner three knots
+two niner four knots
+two niner five knots
+two niner six knots
+two niner seven knots
+two niner eight knots
+two niner niner knots
+three zero zero knots
+three zero one knots
+three zero two knots
+three zero three knots
+three zero four knots
+three zero five knots
+three zero six knots
+three zero seven knots
+three zero eight knots
+three zero niner knots
+three one zero knots
+three one one knots
+three one two knots
+three one three knots
+three one four knots
+three one five knots
+three one six knots
+three one seven knots
+three one eight knots
+three one niner knots
+three two zero knots
+three two one knots
+three two two knots
+three two three knots
+three two four knots
+three two five knots
+three two six knots
+three two seven knots
+three two eight knots
+three two niner knots
+three three zero knots
+three three one knots
+three three two knots
+three three three knots
+three three four knots
+three three five knots
+three three six knots
+three three seven knots
+three three eight knots
+three three niner knots
+three four zero knots
+three four one knots
+three four two knots
+three four three knots
+three four four knots
+three four five knots
+three four six knots
+three four seven knots
+three four eight knots
+three four niner knots
+three five zero knots
+three five one knots
+three five two knots
+three five three knots
+three five four knots
+three five five knots
+three five six knots
+three five seven knots
+three five eight knots
+three five niner knots
+three six zero knots
+three six one knots
+three six two knots
+three six three knots
+three six four knots
+three six five knots
+three six six knots
+three six seven knots
+three six eight knots
+three six niner knots
+three seven zero knots
+three seven one knots
+three seven two knots
+three seven three knots
+three seven four knots
+three seven five knots
+three seven six knots
+three seven seven knots
+three seven eight knots
+three seven niner knots
+three eight zero knots
+three eight one knots
+three eight two knots
+three eight three knots
+three eight four knots
+three eight five knots
+three eight six knots
+three eight seven knots
+three eight eight knots
+three eight niner knots
+three niner zero knots
+three niner one knots
+three niner two knots
+three niner three knots
+three niner four knots
+three niner five knots
+three niner six knots
+three niner seven knots
+three niner eight knots
+three niner niner knots
+four zero zero knots
+four zero one knots
+four zero two knots
+four zero three knots
+four zero four knots
+four zero five knots
+four zero six knots
+four zero seven knots
+four zero eight knots
+four zero niner knots
+four one zero knots
+four one one knots
+four one two knots
+four one three knots
+four one four knots
+four one five knots
+four one six knots
+four one seven knots
+four one eight knots
+four one niner knots
+four two zero knots
+four two one knots
+four two two knots
+four two three knots
+four two four knots
+four two five knots
+four two six knots
+four two seven knots
+four two eight knots
+four two niner knots
+four three zero knots
+four three one knots
+four three two knots
+four three three knots
+four three four knots
+four three five knots
+four three six knots
+four three seven knots
+four three eight knots
+four three niner knots
+four four zero knots
+four four one knots
+four four two knots
+four four three knots
+four four four knots
+four four five knots
+four four six knots
+four four seven knots
+four four eight knots
+four four niner knots
+four five zero knots
+four five one knots
+four five two knots
+four five three knots
+four five four knots
+four five five knots
+four five six knots
+four five seven knots
+four five eight knots
+four five niner knots
+four six zero knots
+four six one knots
+four six two knots
+four six three knots
+four six four knots
+four six five knots
+four six six knots
+four six seven knots
+four six eight knots
+four six niner knots
+four seven zero knots
+four seven one knots
+four seven two knots
+four seven three knots
+four seven four knots
+four seven five knots
+four seven six knots
+four seven seven knots
+four seven eight knots
+four seven niner knots
+four eight zero knots
+four eight one knots
+four eight two knots
+four eight three knots
+four eight four knots
+four eight five knots
+four eight six knots
+four eight seven knots
+four eight eight knots
+four eight niner knots
+four niner zero knots
+four niner one knots
+four niner two knots
+four niner three knots
+four niner four knots
+four niner five knots
+four niner six knots
+four niner seven knots
+four niner eight knots
+four niner niner knots
+five zero zero knots
+Clear to land
+Request to land
+Contact one one eight decimal zero 
+Contact one one eight decimal one 
+Contact one one eight decimal two 
+Contact one one eight decimal three 
+Contact one one eight decimal four 
+Contact one one eight decimal five 
+Contact one one eight decimal six 
+Contact one one eight decimal seven 
+Contact one one eight decimal eight 
+Contact one one eight decimal niner 
+Contact one one niner decimal zero 
+Contact one one niner decimal one 
+Contact one one niner decimal two 
+Contact one one niner decimal three 
+Contact one one niner decimal four 
+Contact one one niner decimal five 
+Contact one one niner decimal six 
+Contact one one niner decimal seven 
+Contact one one niner decimal eight 
+Contact one one niner decimal niner 
+Contact one two zero decimal zero 
+Contact one two zero decimal one 
+Contact one two zero decimal two 
+Contact one two zero decimal three 
+Contact one two zero decimal four 
+Contact one two zero decimal five 
+Contact one two zero decimal six 
+Contact one two zero decimal seven 
+Contact one two zero decimal eight 
+Contact one two zero decimal niner 
+Contact one two one decimal zero 
+Contact one two one decimal one 
+Contact one two one decimal two 
+Contact one two one decimal three 
+Contact one two one decimal four 
+Contact one two one decimal five 
+Contact one two one decimal six 
+Contact one two one decimal seven 
+Contact one two one decimal eight 
+Contact one two one decimal niner 
+Contact one two two decimal zero 
+Contact one two two decimal one 
+Contact one two two decimal two 
+Contact one two two decimal three 
+Contact one two two decimal four 
+Contact one two two decimal five 
+Contact one two two decimal six 
+Contact one two two decimal seven 
+Contact one two two decimal eight 
+Contact one two two decimal niner 
+Contact one two three decimal zero 
+Contact one two three decimal one 
+Contact one two three decimal two 
+Contact one two three decimal three 
+Contact one two three decimal four 
+Contact one two three decimal five 
+Contact one two three decimal six 
+Contact one two three decimal seven 
+Contact one two three decimal eight 
+Contact one two three decimal niner 
+Contact one two four decimal zero 
+Contact one two four decimal one 
+Contact one two four decimal two 
+Contact one two four decimal three 
+Contact one two four decimal four 
+Contact one two four decimal five 
+Contact one two four decimal six 
+Contact one two four decimal seven 
+Contact one two four decimal eight 
+Contact one two four decimal niner 
+Contact one two five decimal zero 
+Contact one two five decimal one 
+Contact one two five decimal two 
+Contact one two five decimal three 
+Contact one two five decimal four 
+Contact one two five decimal five 
+Contact one two five decimal six 
+Contact one two five decimal seven 
+Contact one two five decimal eight 
+Contact one two five decimal niner 
+Contact one two six decimal zero 
+Contact one two six decimal one 
+Contact one two six decimal two 
+Contact one two six decimal three 
+Contact one two six decimal four 
+Contact one two six decimal five 
+Contact one two six decimal six 
+Contact one two six decimal seven 
+Contact one two six decimal eight 
+Contact one two six decimal niner 
+Contact one two seven decimal zero 
+Contact one two seven decimal one 
+Contact one two seven decimal two 
+Contact one two seven decimal three 
+Contact one two seven decimal four 
+Contact one two seven decimal five 
+Contact one two seven decimal six 
+Contact one two seven decimal seven 
+Contact one two seven decimal eight 
+Contact one two seven decimal niner 
+Contact one two eight decimal zero 
+Contact one two eight decimal one 
+Contact one two eight decimal two 
+Contact one two eight decimal three 
+Contact one two eight decimal four 
+Contact one two eight decimal five 
+Contact one two eight decimal six 
+Contact one two eight decimal seven 
+Contact one two eight decimal eight 
+Contact one two eight decimal niner 
+Contact one two niner decimal zero 
+Contact one two niner decimal one 
+Contact one two niner decimal two 
+Contact one two niner decimal three 
+Contact one two niner decimal four 
+Contact one two niner decimal five 
+Contact one two niner decimal six 
+Contact one two niner decimal seven 
+Contact one two niner decimal eight 
+Contact one two niner decimal niner 
+Contact one three zero decimal zero 
+Contact one three zero decimal one 
+Contact one three zero decimal two 
+Contact one three zero decimal three 
+Contact one three zero decimal four 
+Contact one three zero decimal five 
+Contact one three zero decimal six 
+Contact one three zero decimal seven 
+Contact one three zero decimal eight 
+Contact one three zero decimal niner 
+Contact one three one decimal zero 
+Contact one three one decimal one 
+Contact one three one decimal two 
+Contact one three one decimal three 
+Contact one three one decimal four 
+Contact one three one decimal five 
+Contact one three one decimal six 
+Contact one three one decimal seven 
+Contact one three one decimal eight 
+Contact one three one decimal niner 
+Contact one three two decimal zero 
+Contact one three two decimal one 
+Contact one three two decimal two 
+Contact one three two decimal three 
+Contact one three two decimal four 
+Contact one three two decimal five 
+Contact one three two decimal six 
+Contact one three two decimal seven 
+Contact one three two decimal eight 
+Contact one three two decimal niner 
+Contact one three three decimal zero 
+Contact one three three decimal one 
+Contact one three three decimal two 
+Contact one three three decimal three 
+Contact one three three decimal four 
+Contact one three three decimal five 
+Contact one three three decimal six 
+Contact one three three decimal seven 
+Contact one three three decimal eight 
+Contact one three three decimal niner 
+Contact one three four decimal zero 
+Contact one three four decimal one 
+Contact one three four decimal two 
+Contact one three four decimal three 
+Contact one three four decimal four 
+Contact one three four decimal five 
+Contact one three four decimal six 
+Contact one three four decimal seven 
+Contact one three four decimal eight 
+Contact one three four decimal niner 
+Contact one three five decimal zero 
+Contact one three five decimal one 
+Contact one three five decimal two 
+Contact one three five decimal three 
+Contact one three five decimal four 
+Contact one three five decimal five 
+Contact one three five decimal six 
+Contact one three five decimal seven 
+Contact one three five decimal eight 
+Contact one three five decimal niner 
+Contact one three six decimal zero 
+Contact one three six decimal one 
+Contact one three six decimal two 
+Contact one three six decimal three 
+Contact one three six decimal four 
+Contact one three six decimal five 
+Contact one three six decimal six 
+Contact one three six decimal seven 
+Contact one three six decimal eight 
+Contact one three six decimal niner 
+Contact one three seven decimal zero 
+Contact one three seven decimal one 
+Contact one three seven decimal two 
+Contact one three seven decimal three 
+Contact one three seven decimal four 
+Contact one three seven decimal five 
+Contact one three seven decimal six 
+Contact one three seven decimal seven 
+Contact one three seven decimal eight 
+Contact one three seven decimal niner 
+Contact one three eight decimal zero 
+Contact one three eight decimal one 
+Contact one three eight decimal two 
+Contact one three eight decimal three 
+Contact one three eight decimal four 
+Contact one three eight decimal five 
+Contact one three eight decimal six 
+Contact one three eight decimal seven 
+Contact one three eight decimal eight 
+Contact one three eight decimal niner 
+Contact one three niner decimal zero 
+Contact one three niner decimal one 
+Contact one three niner decimal two 
+Contact one three niner decimal three 
+Contact one three niner decimal four 
+Contact one three niner decimal five 
+Contact one three niner decimal six 
+Switch to one one eight decimal zero 
+Switch to one one eight decimal one 
+Switch to one one eight decimal two 
+Switch to one one eight decimal three 
+Switch to one one eight decimal four 
+Switch to one one eight decimal five 
+Switch to one one eight decimal six 
+Switch to one one eight decimal seven 
+Switch to one one eight decimal eight 
+Switch to one one eight decimal niner 
+Switch to one one niner decimal zero 
+Switch to one one niner decimal one 
+Switch to one one niner decimal two 
+Switch to one one niner decimal three 
+Switch to one one niner decimal four 
+Switch to one one niner decimal five 
+Switch to one one niner decimal six 
+Switch to one one niner decimal seven 
+Switch to one one niner decimal eight 
+Switch to one one niner decimal niner 
+Switch to one two zero decimal zero 
+Switch to one two zero decimal one 
+Switch to one two zero decimal two 
+Switch to one two zero decimal three 
+Switch to one two zero decimal four 
+Switch to one two zero decimal five 
+Switch to one two zero decimal six 
+Switch to one two zero decimal seven 
+Switch to one two zero decimal eight 
+Switch to one two zero decimal niner 
+Switch to one two one decimal zero 
+Switch to one two one decimal one 
+Switch to one two one decimal two 
+Switch to one two one decimal three 
+Switch to one two one decimal four 
+Switch to one two one decimal five 
+Switch to one two one decimal six 
+Switch to one two one decimal seven 
+Switch to one two one decimal eight 
+Switch to one two one decimal niner 
+Switch to one two two decimal zero 
+Switch to one two two decimal one 
+Switch to one two two decimal two 
+Switch to one two two decimal three 
+Switch to one two two decimal four 
+Switch to one two two decimal five 
+Switch to one two two decimal six 
+Switch to one two two decimal seven 
+Switch to one two two decimal eight 
+Switch to one two two decimal niner 
+Switch to one two three decimal zero 
+Switch to one two three decimal one 
+Switch to one two three decimal two 
+Switch to one two three decimal three 
+Switch to one two three decimal four 
+Switch to one two three decimal five 
+Switch to one two three decimal six 
+Switch to one two three decimal seven 
+Switch to one two three decimal eight 
+Switch to one two three decimal niner 
+Switch to one two four decimal zero 
+Switch to one two four decimal one 
+Switch to one two four decimal two 
+Switch to one two four decimal three 
+Switch to one two four decimal four 
+Switch to one two four decimal five 
+Switch to one two four decimal six 
+Switch to one two four decimal seven 
+Switch to one two four decimal eight 
+Switch to one two four decimal niner 
+Switch to one two five decimal zero 
+Switch to one two five decimal one 
+Switch to one two five decimal two 
+Switch to one two five decimal three 
+Switch to one two five decimal four 
+Switch to one two five decimal five 
+Switch to one two five decimal six 
+Switch to one two five decimal seven 
+Switch to one two five decimal eight 
+Switch to one two five decimal niner 
+Switch to one two six decimal zero 
+Switch to one two six decimal one 
+Switch to one two six decimal two 
+Switch to one two six decimal three 
+Switch to one two six decimal four 
+Switch to one two six decimal five 
+Switch to one two six decimal six 
+Switch to one two six decimal seven 
+Switch to one two six decimal eight 
+Switch to one two six decimal niner 
+Switch to one two seven decimal zero 
+Switch to one two seven decimal one 
+Switch to one two seven decimal two 
+Switch to one two seven decimal three 
+Switch to one two seven decimal four 
+Switch to one two seven decimal five 
+Switch to one two seven decimal six 
+Switch to one two seven decimal seven 
+Switch to one two seven decimal eight 
+Switch to one two seven decimal niner 
+Switch to one two eight decimal zero 
+Switch to one two eight decimal one 
+Switch to one two eight decimal two 
+Switch to one two eight decimal three 
+Switch to one two eight decimal four 
+Switch to one two eight decimal five 
+Switch to one two eight decimal six 
+Switch to one two eight decimal seven 
+Switch to one two eight decimal eight 
+Switch to one two eight decimal niner 
+Switch to one two niner decimal zero 
+Switch to one two niner decimal one 
+Switch to one two niner decimal two 
+Switch to one two niner decimal three 
+Switch to one two niner decimal four 
+Switch to one two niner decimal five 
+Switch to one two niner decimal six 
+Switch to one two niner decimal seven 
+Switch to one two niner decimal eight 
+Switch to one two niner decimal niner 
+Switch to one three zero decimal zero 
+Switch to one three zero decimal one 
+Switch to one three zero decimal two 
+Switch to one three zero decimal three 
+Switch to one three zero decimal four 
+Switch to one three zero decimal five 
+Switch to one three zero decimal six 
+Switch to one three zero decimal seven 
+Switch to one three zero decimal eight 
+Switch to one three zero decimal niner 
+Switch to one three one decimal zero 
+Switch to one three one decimal one 
+Switch to one three one decimal two 
+Switch to one three one decimal three 
+Switch to one three one decimal four 
+Switch to one three one decimal five 
+Switch to one three one decimal six 
+Switch to one three one decimal seven 
+Switch to one three one decimal eight 
+Switch to one three one decimal niner 
+Switch to one three two decimal zero 
+Switch to one three two decimal one 
+Switch to one three two decimal two 
+Switch to one three two decimal three 
+Switch to one three two decimal four 
+Switch to one three two decimal five 
+Switch to one three two decimal six 
+Switch to one three two decimal seven 
+Switch to one three two decimal eight 
+Switch to one three two decimal niner 
+Switch to one three three decimal zero 
+Switch to one three three decimal one 
+Switch to one three three decimal two 
+Switch to one three three decimal three 
+Switch to one three three decimal four 
+Switch to one three three decimal five 
+Switch to one three three decimal six 
+Switch to one three three decimal seven 
+Switch to one three three decimal eight 
+Switch to one three three decimal niner 
+Switch to one three four decimal zero 
+Switch to one three four decimal one 
+Switch to one three four decimal two 
+Switch to one three four decimal three 
+Switch to one three four decimal four 
+Switch to one three four decimal five 
+Switch to one three four decimal six 
+Switch to one three four decimal seven 
+Switch to one three four decimal eight 
+Switch to one three four decimal niner 
+Switch to one three five decimal zero 
+Switch to one three five decimal one 
+Switch to one three five decimal two 
+Switch to one three five decimal three 
+Switch to one three five decimal four 
+Switch to one three five decimal five 
+Switch to one three five decimal six 
+Switch to one three five decimal seven 
+Switch to one three five decimal eight 
+Switch to one three five decimal niner 
+Switch to one three six decimal zero 
+Switch to one three six decimal one 
+Switch to one three six decimal two 
+Switch to one three six decimal three 
+Switch to one three six decimal four 
+Switch to one three six decimal five 
+Switch to one three six decimal six 
+Switch to one three six decimal seven 
+Switch to one three six decimal eight 
+Switch to one three six decimal niner 
+Switch to one three seven decimal zero 
+Switch to one three seven decimal one 
+Switch to one three seven decimal two 
+Switch to one three seven decimal three 
+Switch to one three seven decimal four 
+Switch to one three seven decimal five 
+Switch to one three seven decimal six 
+Switch to one three seven decimal seven 
+Switch to one three seven decimal eight 
+Switch to one three seven decimal niner 
+Switch to one three eight decimal zero 
+Switch to one three eight decimal one 
+Switch to one three eight decimal two 
+Switch to one three eight decimal three 
+Switch to one three eight decimal four 
+Switch to one three eight decimal five 
+Switch to one three eight decimal six 
+Switch to one three eight decimal seven 
+Switch to one three eight decimal eight 
+Switch to one three eight decimal niner 
+Switch to one three niner decimal zero 
+Switch to one three niner decimal one 
+Switch to one three niner decimal two 
+Switch to one three niner decimal three 
+Switch to one three niner decimal four 
+Switch to one three niner decimal five 
+Switch to one three niner decimal six 
 One Zero Thousand
-Request
-ATC
-Decimal
-Fuel
+Request A T C clearance
+Bingo Fuel
+Minimum Fuel
+Low Fuel
 Alpha
 Bravo
 Charlie
@@ -67,15 +1347,19 @@ Whiskey
 X-ray
 Yankee
 Zulu
-Speed
-Control
-Taxi
-Holding
-squawk
+Increase speed 
+Reduce speed
+Maintain speed
+Singapore Control
+Taxi to holding point
+Taxi to
+squawk two four zero zero
 flight plan
 radio check
-roll
-overshoot
+request to roll
+clear to roll
+request to overshoot
+clear to overshoot
 Skybird six niner three five 
 Citrus one two three four 
 Waterski four niner two 

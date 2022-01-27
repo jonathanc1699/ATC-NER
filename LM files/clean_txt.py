@@ -16,10 +16,10 @@ def number_2_word(n):
     # Return the final answer
     return ans
 
-outfile = open("cs_cleaned.txt","w")
+outfile = open("atcwords_cleaned.txt","w")
 lines_seen = set() # holds lines already seen
 
-with open("cs.txt","r") as f:
+with open("atcwords.txt","r") as f:
     for line in f:
         line=line.rstrip("\n")
         if line not in lines_seen:

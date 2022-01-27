@@ -1,4 +1,4 @@
-non_cs=78
+non_cs=1363
 num_lines=sum(1 for line in open('HotWords.txt'))
 # open both files
 with open('HotWords.txt','r') as firstfile, open('test.txt','a') as secondfile:  
@@ -7,11 +7,11 @@ with open('HotWords.txt','r') as firstfile, open('test.txt','a') as secondfile:
         line=firstfile.readline()
         line=line.rstrip()
         # append content to second file
-        secondfile.write(line + " " + "5000\n")
+        secondfile.write(line + " " + "1000\n")
     
-    for i in range(78,num_lines):
+    for i in range(1363,num_lines):
         line=firstfile.readline()
         line=line.rstrip()
         #append content to second file
-        secondfile.write(line + " " + "1000\n")
+        secondfile.write(line + " " + "50\n")
     
