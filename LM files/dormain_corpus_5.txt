@@ -1,0 +1,1371 @@
+Flight Level one zero zero 1000
+Flight Level one zero five 1000
+Flight Level one one zero 1000
+Flight Level one one five 1000
+Flight Level one two zero 1000
+Flight Level one two five 1000
+Flight Level one three zero 1000
+Flight Level one three five 1000
+Flight Level one four zero 1000
+Flight Level one four five 1000
+Flight Level one five zero 1000
+Flight Level one five five 1000
+Flight Level one six zero 1000
+Flight Level one six five 1000
+Flight Level one seven zero 1000
+Flight Level one seven five 1000
+Flight Level one eight zero 1000
+Flight Level one eight five 1000
+Flight Level one niner zero 1000
+Flight Level one niner five 1000
+Flight Level two zero zero 1000
+Flight Level two zero five 1000
+Flight Level two one zero 1000
+Flight Level two one five 1000
+Flight Level two two zero 1000
+Flight Level two two five 1000
+Flight Level two three zero 1000
+Flight Level two three five 1000
+Flight Level two four zero 1000
+Flight Level two four five 1000
+Flight Level two five zero 1000
+Flight Level two five five 1000
+Flight Level two six zero 1000
+Flight Level two six five 1000
+Flight Level two seven zero 1000
+Flight Level two seven five 1000
+Flight Level two eight zero 1000
+Flight Level two eight five 1000
+Flight Level two niner zero 1000
+Flight Level two niner five 1000
+Flight Level three zero zero 1000
+Flight Level three zero five 1000
+Flight Level three one zero 1000
+Flight Level three one five 1000
+Flight Level three two zero 1000
+Flight Level three two five 1000
+Flight Level three three zero 1000
+Flight Level three three five 1000
+Flight Level three four zero 1000
+Flight Level three four five 1000
+Flight Level three five zero 1000
+Flight Level three five five 1000
+Flight Level three six zero 1000
+Flight Level three six five 1000
+Flight Level three seven zero 1000
+Flight Level three seven five 1000
+Flight Level three eight zero 1000
+Flight Level three eight five 1000
+Flight Level three niner zero 1000
+Flight Level three niner five 1000
+Flight Level four zero zero 1000
+Flight Level four zero five 1000
+Flight Level four one zero 1000
+Flight Level four one five 1000
+Flight Level four two zero 1000
+Flight Level four two five 1000
+Flight Level four three zero 1000
+Flight Level four three five 1000
+Flight Level four four zero 1000
+Flight Level four four five 1000
+Flight Level four five zero 1000
+Runway zero one 1000
+Runway zero two 1000
+Runway zero three 1000
+Runway zero four 1000
+Runway zero five 1000
+Runway zero six 1000
+Runway zero seven 1000
+Runway zero eight 1000
+Runway zero niner 1000
+Runway one zero 1000
+Runway one zero 1000
+Runway one one 1000
+Runway one two 1000
+Runway one three 1000
+Runway one four 1000
+Runway one five 1000
+Runway one six 1000
+Runway one seven 1000
+Runway one eight 1000
+Runway one niner 1000
+Runway two zero 1000
+Runway two one 1000
+Runway two two 1000
+Runway two three 1000
+Runway two four 1000
+Runway two five 1000
+Runway two six 1000
+Runway two seven 1000
+Runway two eight 1000
+Runway two niner 1000
+Runway three zero 1000
+Runway three one 1000
+Runway three two 1000
+Runway three three 1000
+Runway three four 1000
+Runway three five 1000
+Runway three six 1000
+Runway zero one left 1000
+Runway zero two left 1000
+Runway zero three left 1000
+Runway zero four left 1000
+Runway zero five left 1000
+Runway zero six left 1000
+Runway zero seven left 1000
+Runway zero eight left 1000
+Runway zero niner left 1000
+Runway one zero left 1000
+Runway one zero left 1000
+Runway one one left 1000
+Runway one two left 1000
+Runway one three left 1000
+Runway one four left 1000
+Runway one five left 1000
+Runway one six left 1000
+Runway one seven left 1000
+Runway one eight left 1000
+Runway one niner left 1000
+Runway two zero left 1000
+Runway two one left 1000
+Runway two two left 1000
+Runway two three left 1000
+Runway two four left 1000
+Runway two five left 1000
+Runway two six left 1000
+Runway two seven left 1000
+Runway two eight left 1000
+Runway two niner left 1000
+Runway three zero left 1000
+Runway three one left 1000
+Runway three two left 1000
+Runway three three left 1000
+Runway three four left 1000
+Runway three five left 1000
+Runway three six left 1000
+Runway zero one right 1000
+Runway zero two right 1000
+Runway zero three right 1000
+Runway zero four right 1000
+Runway zero five right 1000
+Runway zero six right 1000
+Runway zero seven right 1000
+Runway zero eight right 1000
+Runway zero niner right 1000
+Runway one zero right 1000
+Runway one zero right 1000
+Runway one one right 1000
+Runway one two right 1000
+Runway one three right 1000
+Runway one four right 1000
+Runway one five right 1000
+Runway one six right 1000
+Runway one seven right 1000
+Runway one eight right 1000
+Runway one niner right 1000
+Runway two zero right 1000
+Runway two one right 1000
+Runway two two right 1000
+Runway two three right 1000
+Runway two four right 1000
+Runway two five right 1000
+Runway two six right 1000
+Runway two seven right 1000
+Runway two eight right 1000
+Runway two niner right 1000
+Runway three zero right 1000
+Runway three one right 1000
+Runway three two right 1000
+Runway three three right 1000
+Runway three four right 1000
+Runway three five right 1000
+Runway three six right 1000
+Climb five hundred feet 1000
+Climb one thousand feet 1000
+Climb one thousand five hundred feet 1000
+Climb two thousand feet 1000
+Climb two thousand five hundred feet 1000
+Climb three thousand feet 1000
+Climb three thousand five hundred feet 1000
+Climb four thousand feet 1000
+Climb five thousand feet 1000
+Climb five thousand five hundred feet 1000
+Climb six thousand feet 1000
+Climb six thousand five hundred feet 1000
+Climb seven thousand feet 1000
+Climb seven thousand five hundred feet 1000
+Climb eight thousand feet 1000
+Climb eight thousand five hundred feet 1000
+Climb niner thousand feet 1000
+Climb niner thousand five hundred feet 1000
+Climb one zero thousand feet 1000
+Climb flight level 1000
+Descent five hundred feet 1000
+Descent one thousand feet 1000
+Descent one thousand five hundred feet 1000
+Descent two thousand feet 1000
+Descent two thousand five hundred feet 1000
+Descent three thousand feet 1000
+Descent three thousand five hundred feet 1000
+Descent four thousand feet 1000
+Descent five thousand feet 1000
+Descent five thousand five hundred feet 1000
+Descent six thousand feet 1000
+Descent six thousand five hundred feet 1000
+Descent seven thousand feet 1000
+Descent seven thousand five hundred feet 1000
+Descent eight thousand feet 1000
+Descent eight thousand five hundred feet 1000
+Descent niner thousand feet 1000
+Descent niner thousand five hundred feet 1000
+Descent one zero thousand feet 1000
+Descent flight level 1000
+Heading zero zero five 1000
+Heading zero one zero 1000
+Heading zero one five 1000
+Heading zero two zero 1000
+Heading zero two five 1000
+Heading zero three zero 1000
+Heading zero three five 1000
+Heading zero four zero 1000
+Heading zero four five 1000
+Heading zero five zero 1000
+Heading zero five five 1000
+Heading zero six zero 1000
+Heading zero six five 1000
+Heading zero seven zero 1000
+Heading zero seven five 1000
+Heading zero eight zero 1000
+Heading zero eight five 1000
+Heading zero niner zero 1000
+Heading zero niner five 1000
+Heading one zero zero 1000
+Heading one zero five 1000
+Heading one one zero 1000
+Heading one one five 1000
+Heading one two zero 1000
+Heading one two five 1000
+Heading one three zero 1000
+Heading one three five 1000
+Heading one four zero 1000
+Heading one four five 1000
+Heading one five zero 1000
+Heading one five five 1000
+Heading one six zero 1000
+Heading one six five 1000
+Heading one seven zero 1000
+Heading one seven five 1000
+Heading one eight zero 1000
+Heading one eight five 1000
+Heading one niner zero 1000
+Heading one niner five 1000
+Heading two zero zero 1000
+Heading two zero five 1000
+Heading two one zero 1000
+Heading two one five 1000
+Heading two two zero 1000
+Heading two two five 1000
+Heading two three zero 1000
+Heading two three five 1000
+Heading two four zero 1000
+Heading two four five 1000
+Heading two five zero 1000
+Heading two five five 1000
+Heading two six zero 1000
+Heading two six five 1000
+Heading two seven zero 1000
+Heading two seven five 1000
+Heading two eight zero 1000
+Heading two eight five 1000
+Heading two niner zero 1000
+Heading two niner five 1000
+Heading three zero zero 1000
+Heading three zero five 1000
+Heading three one zero 1000
+Heading three one five 1000
+Heading three two zero 1000
+Heading three two five 1000
+Heading three three zero 1000
+Heading three three five 1000
+Heading three four zero 1000
+Heading three four five 1000
+Heading three five zero 1000
+Heading three five five 1000
+Heading three six zero 1000
+Fly heading 1000
+Maintain heading 1000
+Turn left heading 1000
+Turn right heading 1000
+Clear take off runway 1000
+Clear for take off 1000
+A T C clearance 1000
+Singapore tower 1000
+Singapore ground 1000
+Singapore departure 1000
+Singapore arrival 1000
+Singapore approach 1000
+Contact singapore tower 1000
+Contact singapore ground 1000
+Contact Singapore departure 1000
+Contact Singapore arrival 1000
+Contact Singapore approach 1000
+Report finals 1000
+Report upwind 1000
+Report downwind 1000
+Surface Wind 1000
+zero zero five degrees 1000
+zero one zero degrees 1000
+zero one five degrees 1000
+zero two zero degrees 1000
+zero two five degrees 1000
+zero three zero degrees 1000
+zero three five degrees 1000
+zero four zero degrees 1000
+zero four five degrees 1000
+zero five zero degrees 1000
+zero five five degrees 1000
+zero six zero degrees 1000
+zero six five degrees 1000
+zero seven zero degrees 1000
+zero seven five degrees 1000
+zero eight zero degrees 1000
+zero eight five degrees 1000
+zero niner zero degrees 1000
+zero niner five degrees 1000
+one zero zero degrees 1000
+one zero five degrees 1000
+one one zero degrees 1000
+one one five degrees 1000
+one two zero degrees 1000
+one two five degrees 1000
+one three zero degrees 1000
+one three five degrees 1000
+one four zero degrees 1000
+one four five degrees 1000
+one five zero degrees 1000
+one five five degrees 1000
+one six zero degrees 1000
+one six five degrees 1000
+one seven zero degrees 1000
+one seven five degrees 1000
+one eight zero degrees 1000
+one eight five degrees 1000
+one niner zero degrees 1000
+one niner five degrees 1000
+two zero zero degrees 1000
+two zero five degrees 1000
+two one zero degrees 1000
+two one five degrees 1000
+two two zero degrees 1000
+two two five degrees 1000
+two three zero degrees 1000
+two three five degrees 1000
+two four zero degrees 1000
+two four five degrees 1000
+two five zero degrees 1000
+two five five degrees 1000
+two six zero degrees 1000
+two six five degrees 1000
+two seven zero degrees 1000
+two seven five degrees 1000
+two eight zero degrees 1000
+two eight five degrees 1000
+two niner zero degrees 1000
+two niner five degrees 1000
+three zero zero degrees 1000
+three zero five degrees 1000
+three one zero degrees 1000
+three one five degrees 1000
+three two zero degrees 1000
+three two five degrees 1000
+three three zero degrees 1000
+three three five degrees 1000
+three four zero degrees 1000
+three four five degrees 1000
+three five zero degrees 1000
+three five five degrees 1000
+three six zero degrees 1000
+zero one knots 1000
+zero two knots 1000
+zero three knots 1000
+zero four knots 1000
+zero five knots 1000
+zero six knots 1000
+zero seven knots 1000
+zero eight knots 1000
+zero niner knots 1000
+one zero knots 1000
+one one knots 1000
+one two knots 1000
+one three knots 1000
+one four knots 1000
+one five knots 1000
+one six knots 1000
+one seven knots 1000
+one eight knots 1000
+one niner knots 1000
+two zero knots 1000
+two one knots 1000
+two two knots 1000
+two three knots 1000
+two four knots 1000
+two five knots 1000
+two six knots 1000
+two seven knots 1000
+two eight knots 1000
+two niner knots 1000
+three zero knots 1000
+three one knots 1000
+three two knots 1000
+three three knots 1000
+three four knots 1000
+three five knots 1000
+three six knots 1000
+three seven knots 1000
+three eight knots 1000
+three niner knots 1000
+four zero knots 1000
+four one knots 1000
+four two knots 1000
+four three knots 1000
+four four knots 1000
+four five knots 1000
+four six knots 1000
+four seven knots 1000
+four eight knots 1000
+four niner knots 1000
+five zero knots 1000
+five one knots 1000
+five two knots 1000
+five three knots 1000
+five four knots 1000
+five five knots 1000
+five six knots 1000
+five seven knots 1000
+five eight knots 1000
+five niner knots 1000
+six zero knots 1000
+six one knots 1000
+six two knots 1000
+six three knots 1000
+six four knots 1000
+six five knots 1000
+six six knots 1000
+six seven knots 1000
+six eight knots 1000
+six niner knots 1000
+seven zero knots 1000
+seven one knots 1000
+seven two knots 1000
+seven three knots 1000
+seven four knots 1000
+seven five knots 1000
+seven six knots 1000
+seven seven knots 1000
+seven eight knots 1000
+seven niner knots 1000
+eight zero knots 1000
+eight one knots 1000
+eight two knots 1000
+eight three knots 1000
+eight four knots 1000
+eight five knots 1000
+eight six knots 1000
+eight seven knots 1000
+eight eight knots 1000
+eight niner knots 1000
+niner zero knots 1000
+niner one knots 1000
+niner two knots 1000
+niner three knots 1000
+niner four knots 1000
+niner five knots 1000
+niner six knots 1000
+niner seven knots 1000
+niner eight knots 1000
+niner niner knots 1000
+one zero zero knots 1000
+one zero one knots 1000
+one zero two knots 1000
+one zero three knots 1000
+one zero four knots 1000
+one zero five knots 1000
+one zero six knots 1000
+one zero seven knots 1000
+one zero eight knots 1000
+one zero niner knots 1000
+one one zero knots 1000
+one one one knots 1000
+one one two knots 1000
+one one three knots 1000
+one one four knots 1000
+one one five knots 1000
+one one six knots 1000
+one one seven knots 1000
+one one eight knots 1000
+one one niner knots 1000
+one two zero knots 1000
+one two one knots 1000
+one two two knots 1000
+one two three knots 1000
+one two four knots 1000
+one two five knots 1000
+one two six knots 1000
+one two seven knots 1000
+one two eight knots 1000
+one two niner knots 1000
+one three zero knots 1000
+one three one knots 1000
+one three two knots 1000
+one three three knots 1000
+one three four knots 1000
+one three five knots 1000
+one three six knots 1000
+one three seven knots 1000
+one three eight knots 1000
+one three niner knots 1000
+one four zero knots 1000
+one four one knots 1000
+one four two knots 1000
+one four three knots 1000
+one four four knots 1000
+one four five knots 1000
+one four six knots 1000
+one four seven knots 1000
+one four eight knots 1000
+one four niner knots 1000
+one five zero knots 1000
+one five one knots 1000
+one five two knots 1000
+one five three knots 1000
+one five four knots 1000
+one five five knots 1000
+one five six knots 1000
+one five seven knots 1000
+one five eight knots 1000
+one five niner knots 1000
+one six zero knots 1000
+one six one knots 1000
+one six two knots 1000
+one six three knots 1000
+one six four knots 1000
+one six five knots 1000
+one six six knots 1000
+one six seven knots 1000
+one six eight knots 1000
+one six niner knots 1000
+one seven zero knots 1000
+one seven one knots 1000
+one seven two knots 1000
+one seven three knots 1000
+one seven four knots 1000
+one seven five knots 1000
+one seven six knots 1000
+one seven seven knots 1000
+one seven eight knots 1000
+one seven niner knots 1000
+one eight zero knots 1000
+one eight one knots 1000
+one eight two knots 1000
+one eight three knots 1000
+one eight four knots 1000
+one eight five knots 1000
+one eight six knots 1000
+one eight seven knots 1000
+one eight eight knots 1000
+one eight niner knots 1000
+one niner zero knots 1000
+one niner one knots 1000
+one niner two knots 1000
+one niner three knots 1000
+one niner four knots 1000
+one niner five knots 1000
+one niner six knots 1000
+one niner seven knots 1000
+one niner eight knots 1000
+one niner niner knots 1000
+two zero zero knots 1000
+two zero one knots 1000
+two zero two knots 1000
+two zero three knots 1000
+two zero four knots 1000
+two zero five knots 1000
+two zero six knots 1000
+two zero seven knots 1000
+two zero eight knots 1000
+two zero niner knots 1000
+two one zero knots 1000
+two one one knots 1000
+two one two knots 1000
+two one three knots 1000
+two one four knots 1000
+two one five knots 1000
+two one six knots 1000
+two one seven knots 1000
+two one eight knots 1000
+two one niner knots 1000
+two two zero knots 1000
+two two one knots 1000
+two two two knots 1000
+two two three knots 1000
+two two four knots 1000
+two two five knots 1000
+two two six knots 1000
+two two seven knots 1000
+two two eight knots 1000
+two two niner knots 1000
+two three zero knots 1000
+two three one knots 1000
+two three two knots 1000
+two three three knots 1000
+two three four knots 1000
+two three five knots 1000
+two three six knots 1000
+two three seven knots 1000
+two three eight knots 1000
+two three niner knots 1000
+two four zero knots 1000
+two four one knots 1000
+two four two knots 1000
+two four three knots 1000
+two four four knots 1000
+two four five knots 1000
+two four six knots 1000
+two four seven knots 1000
+two four eight knots 1000
+two four niner knots 1000
+two five zero knots 1000
+two five one knots 1000
+two five two knots 1000
+two five three knots 1000
+two five four knots 1000
+two five five knots 1000
+two five six knots 1000
+two five seven knots 1000
+two five eight knots 1000
+two five niner knots 1000
+two six zero knots 1000
+two six one knots 1000
+two six two knots 1000
+two six three knots 1000
+two six four knots 1000
+two six five knots 1000
+two six six knots 1000
+two six seven knots 1000
+two six eight knots 1000
+two six niner knots 1000
+two seven zero knots 1000
+two seven one knots 1000
+two seven two knots 1000
+two seven three knots 1000
+two seven four knots 1000
+two seven five knots 1000
+two seven six knots 1000
+two seven seven knots 1000
+two seven eight knots 1000
+two seven niner knots 1000
+two eight zero knots 1000
+two eight one knots 1000
+two eight two knots 1000
+two eight three knots 1000
+two eight four knots 1000
+two eight five knots 1000
+two eight six knots 1000
+two eight seven knots 1000
+two eight eight knots 1000
+two eight niner knots 1000
+two niner zero knots 1000
+two niner one knots 1000
+two niner two knots 1000
+two niner three knots 1000
+two niner four knots 1000
+two niner five knots 1000
+two niner six knots 1000
+two niner seven knots 1000
+two niner eight knots 1000
+two niner niner knots 1000
+three zero zero knots 1000
+three zero one knots 1000
+three zero two knots 1000
+three zero three knots 1000
+three zero four knots 1000
+three zero five knots 1000
+three zero six knots 1000
+three zero seven knots 1000
+three zero eight knots 1000
+three zero niner knots 1000
+three one zero knots 1000
+three one one knots 1000
+three one two knots 1000
+three one three knots 1000
+three one four knots 1000
+three one five knots 1000
+three one six knots 1000
+three one seven knots 1000
+three one eight knots 1000
+three one niner knots 1000
+three two zero knots 1000
+three two one knots 1000
+three two two knots 1000
+three two three knots 1000
+three two four knots 1000
+three two five knots 1000
+three two six knots 1000
+three two seven knots 1000
+three two eight knots 1000
+three two niner knots 1000
+three three zero knots 1000
+three three one knots 1000
+three three two knots 1000
+three three three knots 1000
+three three four knots 1000
+three three five knots 1000
+three three six knots 1000
+three three seven knots 1000
+three three eight knots 1000
+three three niner knots 1000
+three four zero knots 1000
+three four one knots 1000
+three four two knots 1000
+three four three knots 1000
+three four four knots 1000
+three four five knots 1000
+three four six knots 1000
+three four seven knots 1000
+three four eight knots 1000
+three four niner knots 1000
+three five zero knots 1000
+three five one knots 1000
+three five two knots 1000
+three five three knots 1000
+three five four knots 1000
+three five five knots 1000
+three five six knots 1000
+three five seven knots 1000
+three five eight knots 1000
+three five niner knots 1000
+three six zero knots 1000
+three six one knots 1000
+three six two knots 1000
+three six three knots 1000
+three six four knots 1000
+three six five knots 1000
+three six six knots 1000
+three six seven knots 1000
+three six eight knots 1000
+three six niner knots 1000
+three seven zero knots 1000
+three seven one knots 1000
+three seven two knots 1000
+three seven three knots 1000
+three seven four knots 1000
+three seven five knots 1000
+three seven six knots 1000
+three seven seven knots 1000
+three seven eight knots 1000
+three seven niner knots 1000
+three eight zero knots 1000
+three eight one knots 1000
+three eight two knots 1000
+three eight three knots 1000
+three eight four knots 1000
+three eight five knots 1000
+three eight six knots 1000
+three eight seven knots 1000
+three eight eight knots 1000
+three eight niner knots 1000
+three niner zero knots 1000
+three niner one knots 1000
+three niner two knots 1000
+three niner three knots 1000
+three niner four knots 1000
+three niner five knots 1000
+three niner six knots 1000
+three niner seven knots 1000
+three niner eight knots 1000
+three niner niner knots 1000
+four zero zero knots 1000
+four zero one knots 1000
+four zero two knots 1000
+four zero three knots 1000
+four zero four knots 1000
+four zero five knots 1000
+four zero six knots 1000
+four zero seven knots 1000
+four zero eight knots 1000
+four zero niner knots 1000
+four one zero knots 1000
+four one one knots 1000
+four one two knots 1000
+four one three knots 1000
+four one four knots 1000
+four one five knots 1000
+four one six knots 1000
+four one seven knots 1000
+four one eight knots 1000
+four one niner knots 1000
+four two zero knots 1000
+four two one knots 1000
+four two two knots 1000
+four two three knots 1000
+four two four knots 1000
+four two five knots 1000
+four two six knots 1000
+four two seven knots 1000
+four two eight knots 1000
+four two niner knots 1000
+four three zero knots 1000
+four three one knots 1000
+four three two knots 1000
+four three three knots 1000
+four three four knots 1000
+four three five knots 1000
+four three six knots 1000
+four three seven knots 1000
+four three eight knots 1000
+four three niner knots 1000
+four four zero knots 1000
+four four one knots 1000
+four four two knots 1000
+four four three knots 1000
+four four four knots 1000
+four four five knots 1000
+four four six knots 1000
+four four seven knots 1000
+four four eight knots 1000
+four four niner knots 1000
+four five zero knots 1000
+four five one knots 1000
+four five two knots 1000
+four five three knots 1000
+four five four knots 1000
+four five five knots 1000
+four five six knots 1000
+four five seven knots 1000
+four five eight knots 1000
+four five niner knots 1000
+four six zero knots 1000
+four six one knots 1000
+four six two knots 1000
+four six three knots 1000
+four six four knots 1000
+four six five knots 1000
+four six six knots 1000
+four six seven knots 1000
+four six eight knots 1000
+four six niner knots 1000
+four seven zero knots 1000
+four seven one knots 1000
+four seven two knots 1000
+four seven three knots 1000
+four seven four knots 1000
+four seven five knots 1000
+four seven six knots 1000
+four seven seven knots 1000
+four seven eight knots 1000
+four seven niner knots 1000
+four eight zero knots 1000
+four eight one knots 1000
+four eight two knots 1000
+four eight three knots 1000
+four eight four knots 1000
+four eight five knots 1000
+four eight six knots 1000
+four eight seven knots 1000
+four eight eight knots 1000
+four eight niner knots 1000
+four niner zero knots 1000
+four niner one knots 1000
+four niner two knots 1000
+four niner three knots 1000
+four niner four knots 1000
+four niner five knots 1000
+four niner six knots 1000
+four niner seven knots 1000
+four niner eight knots 1000
+four niner niner knots 1000
+five zero zero knots 1000
+Clear to land 1000
+Request to land 1000
+Contact one one eight decimal zero 1000
+Contact one one eight decimal one 1000
+Contact one one eight decimal two 1000
+Contact one one eight decimal three 1000
+Contact one one eight decimal four 1000
+Contact one one eight decimal five 1000
+Contact one one eight decimal six 1000
+Contact one one eight decimal seven 1000
+Contact one one eight decimal eight 1000
+Contact one one eight decimal niner 1000
+Contact one one niner decimal zero 1000
+Contact one one niner decimal one 1000
+Contact one one niner decimal two 1000
+Contact one one niner decimal three 1000
+Contact one one niner decimal four 1000
+Contact one one niner decimal five 1000
+Contact one one niner decimal six 1000
+Contact one one niner decimal seven 1000
+Contact one one niner decimal eight 1000
+Contact one one niner decimal niner 1000
+Contact one two zero decimal zero 1000
+Contact one two zero decimal one 1000
+Contact one two zero decimal two 1000
+Contact one two zero decimal three 1000
+Contact one two zero decimal four 1000
+Contact one two zero decimal five 1000
+Contact one two zero decimal six 1000
+Contact one two zero decimal seven 1000
+Contact one two zero decimal eight 1000
+Contact one two zero decimal niner 1000
+Contact one two one decimal zero 1000
+Contact one two one decimal one 1000
+Contact one two one decimal two 1000
+Contact one two one decimal three 1000
+Contact one two one decimal four 1000
+Contact one two one decimal five 1000
+Contact one two one decimal six 1000
+Contact one two one decimal seven 1000
+Contact one two one decimal eight 1000
+Contact one two one decimal niner 1000
+Contact one two two decimal zero 1000
+Contact one two two decimal one 1000
+Contact one two two decimal two 1000
+Contact one two two decimal three 1000
+Contact one two two decimal four 1000
+Contact one two two decimal five 1000
+Contact one two two decimal six 1000
+Contact one two two decimal seven 1000
+Contact one two two decimal eight 1000
+Contact one two two decimal niner 1000
+Contact one two three decimal zero 1000
+Contact one two three decimal one 1000
+Contact one two three decimal two 1000
+Contact one two three decimal three 1000
+Contact one two three decimal four 1000
+Contact one two three decimal five 1000
+Contact one two three decimal six 1000
+Contact one two three decimal seven 1000
+Contact one two three decimal eight 1000
+Contact one two three decimal niner 1000
+Contact one two four decimal zero 1000
+Contact one two four decimal one 1000
+Contact one two four decimal two 1000
+Contact one two four decimal three 1000
+Contact one two four decimal four 1000
+Contact one two four decimal five 1000
+Contact one two four decimal six 1000
+Contact one two four decimal seven 1000
+Contact one two four decimal eight 1000
+Contact one two four decimal niner 1000
+Contact one two five decimal zero 1000
+Contact one two five decimal one 1000
+Contact one two five decimal two 1000
+Contact one two five decimal three 1000
+Contact one two five decimal four 1000
+Contact one two five decimal five 1000
+Contact one two five decimal six 1000
+Contact one two five decimal seven 1000
+Contact one two five decimal eight 1000
+Contact one two five decimal niner 1000
+Contact one two six decimal zero 1000
+Contact one two six decimal one 1000
+Contact one two six decimal two 1000
+Contact one two six decimal three 1000
+Contact one two six decimal four 1000
+Contact one two six decimal five 1000
+Contact one two six decimal six 1000
+Contact one two six decimal seven 1000
+Contact one two six decimal eight 1000
+Contact one two six decimal niner 1000
+Contact one two seven decimal zero 1000
+Contact one two seven decimal one 1000
+Contact one two seven decimal two 1000
+Contact one two seven decimal three 1000
+Contact one two seven decimal four 1000
+Contact one two seven decimal five 1000
+Contact one two seven decimal six 1000
+Contact one two seven decimal seven 1000
+Contact one two seven decimal eight 1000
+Contact one two seven decimal niner 1000
+Contact one two eight decimal zero 1000
+Contact one two eight decimal one 1000
+Contact one two eight decimal two 1000
+Contact one two eight decimal three 1000
+Contact one two eight decimal four 1000
+Contact one two eight decimal five 1000
+Contact one two eight decimal six 1000
+Contact one two eight decimal seven 1000
+Contact one two eight decimal eight 1000
+Contact one two eight decimal niner 1000
+Contact one two niner decimal zero 1000
+Contact one two niner decimal one 1000
+Contact one two niner decimal two 1000
+Contact one two niner decimal three 1000
+Contact one two niner decimal four 1000
+Contact one two niner decimal five 1000
+Contact one two niner decimal six 1000
+Contact one two niner decimal seven 1000
+Contact one two niner decimal eight 1000
+Contact one two niner decimal niner 1000
+Contact one three zero decimal zero 1000
+Contact one three zero decimal one 1000
+Contact one three zero decimal two 1000
+Contact one three zero decimal three 1000
+Contact one three zero decimal four 1000
+Contact one three zero decimal five 1000
+Contact one three zero decimal six 1000
+Contact one three zero decimal seven 1000
+Contact one three zero decimal eight 1000
+Contact one three zero decimal niner 1000
+Contact one three one decimal zero 1000
+Contact one three one decimal one 1000
+Contact one three one decimal two 1000
+Contact one three one decimal three 1000
+Contact one three one decimal four 1000
+Contact one three one decimal five 1000
+Contact one three one decimal six 1000
+Contact one three one decimal seven 1000
+Contact one three one decimal eight 1000
+Contact one three one decimal niner 1000
+Contact one three two decimal zero 1000
+Contact one three two decimal one 1000
+Contact one three two decimal two 1000
+Contact one three two decimal three 1000
+Contact one three two decimal four 1000
+Contact one three two decimal five 1000
+Contact one three two decimal six 1000
+Contact one three two decimal seven 1000
+Contact one three two decimal eight 1000
+Contact one three two decimal niner 1000
+Contact one three three decimal zero 1000
+Contact one three three decimal one 1000
+Contact one three three decimal two 1000
+Contact one three three decimal three 1000
+Contact one three three decimal four 1000
+Contact one three three decimal five 1000
+Contact one three three decimal six 1000
+Contact one three three decimal seven 1000
+Contact one three three decimal eight 1000
+Contact one three three decimal niner 1000
+Contact one three four decimal zero 1000
+Contact one three four decimal one 1000
+Contact one three four decimal two 1000
+Contact one three four decimal three 1000
+Contact one three four decimal four 1000
+Contact one three four decimal five 1000
+Contact one three four decimal six 1000
+Contact one three four decimal seven 1000
+Contact one three four decimal eight 1000
+Contact one three four decimal niner 1000
+Contact one three five decimal zero 1000
+Contact one three five decimal one 1000
+Contact one three five decimal two 1000
+Contact one three five decimal three 1000
+Contact one three five decimal four 1000
+Contact one three five decimal five 1000
+Contact one three five decimal six 1000
+Contact one three five decimal seven 1000
+Contact one three five decimal eight 1000
+Contact one three five decimal niner 1000
+Contact one three six decimal zero 1000
+Contact one three six decimal one 1000
+Contact one three six decimal two 1000
+Contact one three six decimal three 1000
+Contact one three six decimal four 1000
+Contact one three six decimal five 1000
+Contact one three six decimal six 1000
+Contact one three six decimal seven 1000
+Contact one three six decimal eight 1000
+Contact one three six decimal niner 1000
+Contact one three seven decimal zero 1000
+Contact one three seven decimal one 1000
+Contact one three seven decimal two 1000
+Contact one three seven decimal three 1000
+Contact one three seven decimal four 1000
+Contact one three seven decimal five 1000
+Contact one three seven decimal six 1000
+Contact one three seven decimal seven 1000
+Contact one three seven decimal eight 1000
+Contact one three seven decimal niner 1000
+Contact one three eight decimal zero 1000
+Contact one three eight decimal one 1000
+Contact one three eight decimal two 1000
+Contact one three eight decimal three 1000
+Contact one three eight decimal four 1000
+Contact one three eight decimal five 1000
+Contact one three eight decimal six 1000
+Contact one three eight decimal seven 1000
+Contact one three eight decimal eight 1000
+Contact one three eight decimal niner 1000
+Contact one three niner decimal zero 1000
+Contact one three niner decimal one 1000
+Contact one three niner decimal two 1000
+Contact one three niner decimal three 1000
+Contact one three niner decimal four 1000
+Contact one three niner decimal five 1000
+Contact one three niner decimal six 1000
+Switch to one one eight decimal zero 1000
+Switch to one one eight decimal one 1000
+Switch to one one eight decimal two 1000
+Switch to one one eight decimal three 1000
+Switch to one one eight decimal four 1000
+Switch to one one eight decimal five 1000
+Switch to one one eight decimal six 1000
+Switch to one one eight decimal seven 1000
+Switch to one one eight decimal eight 1000
+Switch to one one eight decimal niner 1000
+Switch to one one niner decimal zero 1000
+Switch to one one niner decimal one 1000
+Switch to one one niner decimal two 1000
+Switch to one one niner decimal three 1000
+Switch to one one niner decimal four 1000
+Switch to one one niner decimal five 1000
+Switch to one one niner decimal six 1000
+Switch to one one niner decimal seven 1000
+Switch to one one niner decimal eight 1000
+Switch to one one niner decimal niner 1000
+Switch to one two zero decimal zero 1000
+Switch to one two zero decimal one 1000
+Switch to one two zero decimal two 1000
+Switch to one two zero decimal three 1000
+Switch to one two zero decimal four 1000
+Switch to one two zero decimal five 1000
+Switch to one two zero decimal six 1000
+Switch to one two zero decimal seven 1000
+Switch to one two zero decimal eight 1000
+Switch to one two zero decimal niner 1000
+Switch to one two one decimal zero 1000
+Switch to one two one decimal one 1000
+Switch to one two one decimal two 1000
+Switch to one two one decimal three 1000
+Switch to one two one decimal four 1000
+Switch to one two one decimal five 1000
+Switch to one two one decimal six 1000
+Switch to one two one decimal seven 1000
+Switch to one two one decimal eight 1000
+Switch to one two one decimal niner 1000
+Switch to one two two decimal zero 1000
+Switch to one two two decimal one 1000
+Switch to one two two decimal two 1000
+Switch to one two two decimal three 1000
+Switch to one two two decimal four 1000
+Switch to one two two decimal five 1000
+Switch to one two two decimal six 1000
+Switch to one two two decimal seven 1000
+Switch to one two two decimal eight 1000
+Switch to one two two decimal niner 1000
+Switch to one two three decimal zero 1000
+Switch to one two three decimal one 1000
+Switch to one two three decimal two 1000
+Switch to one two three decimal three 1000
+Switch to one two three decimal four 1000
+Switch to one two three decimal five 1000
+Switch to one two three decimal six 1000
+Switch to one two three decimal seven 1000
+Switch to one two three decimal eight 1000
+Switch to one two three decimal niner 1000
+Switch to one two four decimal zero 1000
+Switch to one two four decimal one 1000
+Switch to one two four decimal two 1000
+Switch to one two four decimal three 1000
+Switch to one two four decimal four 1000
+Switch to one two four decimal five 1000
+Switch to one two four decimal six 1000
+Switch to one two four decimal seven 1000
+Switch to one two four decimal eight 1000
+Switch to one two four decimal niner 1000
+Switch to one two five decimal zero 1000
+Switch to one two five decimal one 1000
+Switch to one two five decimal two 1000
+Switch to one two five decimal three 1000
+Switch to one two five decimal four 1000
+Switch to one two five decimal five 1000
+Switch to one two five decimal six 1000
+Switch to one two five decimal seven 1000
+Switch to one two five decimal eight 1000
+Switch to one two five decimal niner 1000
+Switch to one two six decimal zero 1000
+Switch to one two six decimal one 1000
+Switch to one two six decimal two 1000
+Switch to one two six decimal three 1000
+Switch to one two six decimal four 1000
+Switch to one two six decimal five 1000
+Switch to one two six decimal six 1000
+Switch to one two six decimal seven 1000
+Switch to one two six decimal eight 1000
+Switch to one two six decimal niner 1000
+Switch to one two seven decimal zero 1000
+Switch to one two seven decimal one 1000
+Switch to one two seven decimal two 1000
+Switch to one two seven decimal three 1000
+Switch to one two seven decimal four 1000
+Switch to one two seven decimal five 1000
+Switch to one two seven decimal six 1000
+Switch to one two seven decimal seven 1000
+Switch to one two seven decimal eight 1000
+Switch to one two seven decimal niner 1000
+Switch to one two eight decimal zero 1000
+Switch to one two eight decimal one 1000
+Switch to one two eight decimal two 1000
+Switch to one two eight decimal three 1000
+Switch to one two eight decimal four 1000
+Switch to one two eight decimal five 1000
+Switch to one two eight decimal six 1000
+Switch to one two eight decimal seven 1000
+Switch to one two eight decimal eight 1000
+Switch to one two eight decimal niner 1000
+Switch to one two niner decimal zero 1000
+Switch to one two niner decimal one 1000
+Switch to one two niner decimal two 1000
+Switch to one two niner decimal three 1000
+Switch to one two niner decimal four 1000
+Switch to one two niner decimal five 1000
+Switch to one two niner decimal six 1000
+Switch to one two niner decimal seven 1000
+Switch to one two niner decimal eight 1000
+Switch to one two niner decimal niner 1000
+Switch to one three zero decimal zero 1000
+Switch to one three zero decimal one 1000
+Switch to one three zero decimal two 1000
+Switch to one three zero decimal three 1000
+Switch to one three zero decimal four 1000
+Switch to one three zero decimal five 1000
+Switch to one three zero decimal six 1000
+Switch to one three zero decimal seven 1000
+Switch to one three zero decimal eight 1000
+Switch to one three zero decimal niner 1000
+Switch to one three one decimal zero 1000
+Switch to one three one decimal one 1000
+Switch to one three one decimal two 1000
+Switch to one three one decimal three 1000
+Switch to one three one decimal four 1000
+Switch to one three one decimal five 1000
+Switch to one three one decimal six 1000
+Switch to one three one decimal seven 1000
+Switch to one three one decimal eight 1000
+Switch to one three one decimal niner 1000
+Switch to one three two decimal zero 1000
+Switch to one three two decimal one 1000
+Switch to one three two decimal two 1000
+Switch to one three two decimal three 1000
+Switch to one three two decimal four 1000
+Switch to one three two decimal five 1000
+Switch to one three two decimal six 1000
+Switch to one three two decimal seven 1000
+Switch to one three two decimal eight 1000
+Switch to one three two decimal niner 1000
+Switch to one three three decimal zero 1000
+Switch to one three three decimal one 1000
+Switch to one three three decimal two 1000
+Switch to one three three decimal three 1000
+Switch to one three three decimal four 1000
+Switch to one three three decimal five 1000
+Switch to one three three decimal six 1000
+Switch to one three three decimal seven 1000
+Switch to one three three decimal eight 1000
+Switch to one three three decimal niner 1000
+Switch to one three four decimal zero 1000
+Switch to one three four decimal one 1000
+Switch to one three four decimal two 1000
+Switch to one three four decimal three 1000
+Switch to one three four decimal four 1000
+Switch to one three four decimal five 1000
+Switch to one three four decimal six 1000
+Switch to one three four decimal seven 1000
+Switch to one three four decimal eight 1000
+Switch to one three four decimal niner 1000
+Switch to one three five decimal zero 1000
+Switch to one three five decimal one 1000
+Switch to one three five decimal two 1000
+Switch to one three five decimal three 1000
+Switch to one three five decimal four 1000
+Switch to one three five decimal five 1000
+Switch to one three five decimal six 1000
+Switch to one three five decimal seven 1000
+Switch to one three five decimal eight 1000
+Switch to one three five decimal niner 1000
+Switch to one three six decimal zero 1000
+Switch to one three six decimal one 1000
+Switch to one three six decimal two 1000
+Switch to one three six decimal three 1000
+Switch to one three six decimal four 1000
+Switch to one three six decimal five 1000
+Switch to one three six decimal six 1000
+Switch to one three six decimal seven 1000
+Switch to one three six decimal eight 1000
+Switch to one three six decimal niner 1000
+Switch to one three seven decimal zero 1000
+Switch to one three seven decimal one 1000
+Switch to one three seven decimal two 1000
+Switch to one three seven decimal three 1000
+Switch to one three seven decimal four 1000
+Switch to one three seven decimal five 1000
+Switch to one three seven decimal six 1000
+Switch to one three seven decimal seven 1000
+Switch to one three seven decimal eight 1000
+Switch to one three seven decimal niner 1000
+Switch to one three eight decimal zero 1000
+Switch to one three eight decimal one 1000
+Switch to one three eight decimal two 1000
+Switch to one three eight decimal three 1000
+Switch to one three eight decimal four 1000
+Switch to one three eight decimal five 1000
+Switch to one three eight decimal six 1000
+Switch to one three eight decimal seven 1000
+Switch to one three eight decimal eight 1000
+Switch to one three eight decimal niner 1000
+Switch to one three niner decimal zero 1000
+Switch to one three niner decimal one 1000
+Switch to one three niner decimal two 1000
+Switch to one three niner decimal three 1000
+Switch to one three niner decimal four 1000
+Switch to one three niner decimal five 1000
+Switch to one three niner decimal six 1000
+One Zero Thousand 1000
+Request A T C clearance 1000
+Bingo Fuel 1000
+Minimum Fuel 1000
+Low Fuel 1000
+Alpha 1000
+Bravo 1000
+Charlie 1000
+Delta 1000
+Echo 1000
+Foxtrot 1000
+Golf 1000
+Hotel 1000
+India 1000
+Juliett 1000
+Kilo 1000
+Lima 1000
+Mike 1000
+November 1000
+Oscar 1000
+Papa 1000
+Quebec 1000
+Romeo 1000
+Sierra 1000
+Tango 1000
+Uniform 1000
+Victor 1000
+Whiskey 1000
+X-ray 1000
+Yankee 1000
+Zulu 1000
+Increase speed 1000
+Reduce speed 1000
+Maintain speed 1000
+Singapore Control 1000
+Taxi to holding point 1000
+Taxi to 1000
+squawk two four zero zero 1000
+flight plan 1000
+radio check 1000
+request to roll 1000
+clear to roll 1000
+request to overshoot 1000
+clear to overshoot 1000
+red cap five one niner seven 1000
+go cat four two niner 1000
+jetstar eight seven three 1000
+singapore three eight four two 1000
