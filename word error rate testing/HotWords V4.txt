@@ -186,8 +186,8 @@ Heading two
 Heading three
 Fly heading
 Maintain heading
-Turn left heading
-Turn right heading
+Turn left 
+Turn right 
 Clear take off runway
 Clear for take off
 A T C clearance
