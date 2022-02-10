@@ -757,10 +757,14 @@ four niner niner knots
 five zero zero knots
 Clear to land
 Request to land
-contact one one
-contact one two
-contact one three
-contact one four
+contact departure
+contact approach
+contact arrival
+contact tower
+one one
+one two
+one three
+one four
 zero decimal zero 
 zero decimal one 
 zero decimal two 
@@ -919,3 +923,8 @@ jetstar three four two
 skybird six four zero
 skylark seven one three
 korean air six two niner four
+good day
+good morning
+good afternoon
+good evening
+good night
