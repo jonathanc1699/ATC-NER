@@ -36,7 +36,6 @@ Runway zero seven
 Runway zero eight 
 Runway zero niner 
 Runway one zero 
-Runway one zero 
 Runway one one 
 Runway one two 
 Runway one three 
@@ -73,7 +72,6 @@ Runway zero seven left
 Runway zero eight left
 Runway zero niner left
 Runway one zero left
-Runway one zero left
 Runway one one left
 Runway one two left
 Runway one three left
@@ -109,7 +107,6 @@ Runway zero six right
 Runway zero seven right
 Runway zero eight right
 Runway zero niner right
-Runway one zero right
 Runway one zero right
 Runway one one right
 Runway one two right
@@ -161,25 +158,6 @@ descent eight
 descent niner 
 descent one zero 
 descent flight level 
-zero zero 
-zero five 
-one zero 
-one five 
-two zero 
-two five 
-three zero 
-three five 
-four zero 
-four five 
-five zero 
-five five 
-six zero 
-six five 
-seven zero 
-seven five 
-eight zero 
-eight five 
-niner zero 
 Heading zero
 Heading one 
 Heading two
