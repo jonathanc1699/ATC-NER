@@ -900,6 +900,9 @@ Whiskey
 X-ray
 Yankee
 Zulu
+echo two 
+echo six
+hold short
 Increase speed 
 Reduce speed
 Maintain speed
