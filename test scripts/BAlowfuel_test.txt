@@ -1,0 +1,41 @@
+pilot: singapore approach good afternoon speedbird one one descending flight level one five zero we are a seven four seven information quebec
+atc: speedbird one one continue on the arama one alpha arrival expect holding at bobag and further clearance at time five one
+pilot: time five one we have a holding speed of two three zero knots is that approved speedbird one one
+atc:speedbird one one two three zero knots approved
+pilot: thank you speedbird one one
+atc: speedbird one one approach
+pilot: go ahead speedbird one one
+atc: speedbird one one descend flight level one three zero enter the hold at bobag clearance time five one
+pilot:speedbird one one please confirm our clearance
+atc: speedbird one one descend flight level one three zero enter the hold at bobag at two three zero knots expect further clearance at time five one
+pilot:descend flight level one three zero hold bobag clearance time five one speedbird one one
+pilot: can we still expect to leave the hold at time five one
+atc: speedbird one one affirm
+pilot: speedbird one one can we get E A T as soon as possible E A T
+atc: speedbird one one roger standby
+atc: speedbird one one updated E A T is time zero three is that okay for you
+pilot: understood stand by for our intentions speedbird one one
+pilot: we're having an issue with fuel sir with an E A T of zero eight zero three it would help our fuel planning if we could take up the holding position 
+nylon to the north of the airfield for our fuel planning without losing our position in the queue
+atc: speedbird one one say again please
+pilot: requesting to take up the hold to the north of the airfield position nylon because it is closest to our diversion
+atc: speedbird one one continue hold at bobag for now if you move to nylon we cannot gurantee your approach position will be held it should only be a few more minutes
+pilot: we require to come off the hold this time for an immediate approach or we will be diverting and declaring a fuel emergency
+atc: speedbird one one exit the hold track direct to samko you are number two for approach
+pilot: number two can we expect an immediate arrival into runway two zero speedbird one one
+atc: affirm
+atc:speedbird one one descend to ten thousand feet Q N H one zero one five
+pilot: descent to ten thousand feet speedbird one one we still require an approach time for us
+pilot: speedbird one one can we reduce speed to two ten knots for better fuel burn
+atc: speedbird one one two ten knots approved
+pilot: two ten knots speedbird one one
+pilot: speedbird one one can we have a left turn please
+atc: speedbird one one turn left heading zero six zero
+pilot: speedbird one one further left turn please and a distance to go for us
+atc: speedbird one one say again please
+pilot: can we have a further left turn please and can we have a distance to go to landing speedbird one one
+atc: speedbird one one turn left heading zero five zero five five track miles left
+pilot: five five track miles left we need accurate information sir accurate information
+atc: speedbird one one descend eight thousand
+pilot: eight thousand feet speedbird one one
+pilot: speedbird one one we require a left turn
