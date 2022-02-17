@@ -167,7 +167,8 @@ Maintain heading
 Turn left 
 Turn right 
 Clear take off runway
-Clear for take off
+Clear for takeoff
+cleared for takeoff
 A T C clearance
 Singapore tower
 Singapore ground
@@ -897,11 +898,27 @@ Tango
 Uniform
 Victor
 Whiskey
-X-ray
+X ray
 Yankee
 Zulu
+echo one
 echo two 
+echo three
+echo four
+echo five
 echo six
+echo seven
+echo eight
+echo niner
+whiskey one
+whiskey two
+whiskey three
+whiskey four
+whiskey five
+whiskey six
+whiskey seven
+whiskey eight
+whiskey niner
 hold short
 Increase speed 
 Reduce speed
@@ -931,3 +948,115 @@ good morning
 good afternoon
 good evening
 good night
+bye bye
+goodbye
+say again
+descending
+continue on the
+arama one alpha
+expect holding
+further clearance
+time one 
+time two
+time three
+time four
+time five
+time zero
+speedbird one one
+go ahead
+enter the hold
+confirm our clearance
+E A T
+ASAP
+ASAP: ay sap
+immediate approach
+immediate apprival
+approved
+exit the hold
+number one
+number two
+number three
+number four
+mayday
+pan pan
+continue hold
+Q N H
+approach time
+fuel burn
+distance to go
+accurate information
+information
+track miles
+identified
+fly past
+low overshoot
+fuel endurance
+inspection
+roger
+roger standby
+stop turn heading
+track to
+standby
+I L S approach
+I L S
+localizer
+continue approach
+steady heading
+touchdown
+vacate runway
+taxi on the greens
+one mile
+two miles
+three miles
+four miles
+five miles
+six miles
+seven miles
+eight miles
+niner miles
+one zero miles
+one one miles
+one two miles
+one three miles
+one four miles
+one five miles
+one six miles
+one seven miles
+one eight miles
+one niner miles
+two zero miles
+inbound
+outbound
+track north
+track south
+track east
+track west
+track direct
+parking bay
+continue taxi 
+flight plan clearance
+start up
+correction 
+pushback
+line up
+line up and wait
+apron
+singapore one
+singapore three
+singapore two
+singapore four
+singapore five
+singapore six
+singapore seven
+singapore eight
+singapore niner
+cleared I L S
+go around
+going around
+ukraine international
+ryanair seven
+thank you
+hello
+hold position
+holding position
+K L M
