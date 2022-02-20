@@ -9,7 +9,7 @@ pilot: one two one eight seven austrian three five niner goodbye
 atc: ukraine international one four six wind calm runway two five right cleared for takeoff next traffic on three mile 
 pilot: two five right cleared for takeoff ukraine international one four six
 pilot: ryanair seven eight quebec tango fully ready
-atc: ryanair seven eight quebec tango hold short of runway two five right becuase arriving seven three seven
+atc: ryanair seven eight quebec tango hold short of runway two five right because arriving seven three seven
 atc: ukraine international one four six start rolling now
 atc: K L M one seven two five expect late landing clearance traffic starting wind calm
 pilot: roger one seven two five
