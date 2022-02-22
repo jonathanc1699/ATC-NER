@@ -1,0 +1,79 @@
+atc: singapore three four five apron hello start up and pushback approved
+pilot: start up and pushback approved singapore three four five good morning
+pilot: singapore three four five apron request taxi
+atc:singapore three four five taxi straight ahead on echo to holding position echo two
+pilot: taxi straight ahead echo to holding position echo two singapore three four five
+atc: singapore three four five i missed the last part of your readback confirm echo two clearance limit
+pilot: yeah hold short at echo two singapore three four five
+atc: swiss one one zero hotel roger taxi on juliet hold short runway two eight
+pilot: taxi juliet hold short two eight swiss one one zero hotel
+atc: singapore three four five contact tower one one eight decimal one goodbye
+pilot: one one eight decimal one bye bye singapore three four five
+pilot: hi tower singapore three four five good morning
+atc: hello singapore three four five zurich tower i will call you back for departure time
+pilot: singapore three four five  
+atc: singapore three four five departure in eight minutes
+pilot: thank you singapore three four five
+atc: singapore three four five behind the swiss airbus ahead line up runway one six
+pilot: behind the swiss airbus line up runway one six singapore three four five super
+pilot: seven one one just for your information we got a fox on a side of the aircraft
+atc: there is a fox around the aircraft is that correct
+pilot: yes just slightly ahead of us
+atc: oh yeah we have to sort that out and send somebody thank you you may turn next right and then along the inner to the holding position alpha two
+pilot: thanks next right inner for alpha two seven one one 
+atc: finnair eight charlie alpha apron pushback and start up approved
+pilot: good morning finnair eight charlie alpha we have to cancel our pushback because nobody is answering
+atc: roger report ready again
+pilot: wilco finnair eight charlie alpha
+atc: speedbird seven one one standby tower one one eight decimal one bye bye
+pilot:  one one eight one seven one one bye
+atc: speedbird seven one one tower hello line up runway two eight and wait on departure crossing on runway one six
+pilot: hello line up and wait runway two eight speedbird seven one one
+atc: singapore three four five wind calm runway one six cleared for takeoff
+pilot: runway one six cleared for takeoff singapore three four five
+atc: singapore three four five stop takeoff i say again stop takeoff a fox is crossing the runway
+pilot: stop takeoff singapore three four five
+pilot: confirm vacate by where singapore three four five
+atc: taxi down the runway vacate into echo five it is about on the height of echo six to echo five the fox is crossing still on the runway i think
+pilot: taxi straight ahead and vacate echo five singapore three four five
+atc: speedbird seven one one wind one zero zero degrees two knots runway two eight cleared for takeoff
+pilot:cleared to takeoff speedbird seven one one
+atc: flying bulgaria four niner two hello line up runway two eight   
+pilot: hello flying bulgarian four niner two line up runway two eight
+atc: singapore three four five turn left into echo five and contact apron one two one decimal eight five 
+pilot: echo five one two one eight five singapore three four five
+pilot: apron singapore three four five hello again turning left on echo five
+atc: singapore three four five apron hello again are you ready for another try
+pilot: affirm singapore three four five
+atc: roger then on the tarmac left turn on echo back to holding position echo two
+pilot: left on echo to holding position echo two singapore three four five can we check where was the traffic that was impeding our takeoff
+atc: please say again
+pilot: can we check the traffic that caused us to abort the takeoff where was the traffic crossing singapore three four five
+atc: singapore three four five it was actually a fox crossing the runway
+pilot: copied thank you very much singapore three four five
+atc: your welcome
+atc: singapore three four five contact tower one one eight decimal one bye bye
+pilot: one one eight decimal one bye bye singapore three four five
+pilot: tower singapore three four five hello again
+atc: hello again singapore three four five continue taxi to echo one
+pilot:taxi to echo one singapore three four five
+pilot: singapore three four five do we have any estimated takeoff time
+atc: ten minutes
+pilot: singapore three four five
+pilot: taxiing to position echo one singapore three four five
+atc: correct thank you
+atc: singapore three four five
+pilot: go ahead for singapore three four five
+atc: we observed the fox quite a while ago and then shortly after issuing the takeoff clearance it decided to cross the runway and that is why it was better to stop your takeoff roll it was a possibility that you hit it
+pilot: thank you very much singapore three four five
+atc: singapore three four five line up runway one six and wait
+pilot: line up runway one six and wait singapore three four five
+atc: croatia four six one tower hello line up runway two eight and wait you have around three and a half minutes until departure
+atc: singapore three four five wind two five zero degrees two knots runway one six cleared for takeoff
+pilot: runway one six cleared for takeoff singapore three four five
+atc: croatia four six one tower line up runway two eight departure in three minutes
+pilot: line up runway two eight croatia four six one
+atc: singapore three four five contact departure bye bye
+pilot: over to departure bye bye singapore three four five thank you
+ 
+  

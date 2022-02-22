@@ -992,11 +992,10 @@ fly past
 low overshoot
 fuel endurance
 inspection
-roger
 roger standby
 stop turn heading
-track to
-standby
+track direct
+please standby
 I L S approach
 I L S
 localizer
@@ -1025,22 +1024,22 @@ one seven miles
 one eight miles
 one niner miles
 two zero miles
-inbound
-outbound
-track north
-track south
-track east
-track west
+inbound flight
+outbound flight
+track northbound
+track southbound
+track eastbound
+track westbound
 track direct
 parking bay
 continue taxi 
 flight plan clearance
-start up
+start up approved
 correction 
-pushback
-line up
+pushback approved
+line up runway
 line up and wait
-apron
+contact apron
 singapore one
 singapore three
 singapore two
@@ -1055,8 +1054,43 @@ go around
 going around
 ukraine international
 ryanair seven
-thank you
-hello
 hold position
 holding position
 K L M
+undercarriage
+landing clear
+engine vibrations
+information alpha
+information Bravo
+information Charlie
+information Delta
+information echo
+information Foxtrot
+information Golf
+information Hotel
+information India
+information Juliett
+information Kilo
+information Lima
+information Mike
+information November
+information Oscar
+information Papa
+information Quebec
+information Romeo
+information Sierra
+information Tango
+information Uniform
+information Victor
+information Whiskey
+information X ray
+information Yankee
+information Zulu
+hello tower
+swiss airbus
+flying bulgarian
+vacate by
+into echo
+via echo
+via whiskey
+on echo
