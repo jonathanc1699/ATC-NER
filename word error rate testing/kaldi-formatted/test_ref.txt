@@ -1,0 +1,127 @@
+atc-chn0-spk1-001 singapore eight four six one turn left heading two seven zero
+atc-chn0-spk1-002 left turn heading two seven zero singapore eight four six one
+atc-chn0-spk1-003 jetstar three four two two runway three six clear for take off
+atc-chn0-spk1-004 skybird six four zero taxi to holding point echo two via echo six hold short of runway three six
+atc-chn0-spk1-005 skylark seven one three climb flight level two eight zero
+atc-chn0-spk1-006 climb flight level two eight zero skylark seven one three
+atc-chn0-spk1-007 korean air six two niner four increase speed to three zero zero knots
+atc-chn0-spk1-008 increase speed to three zero zero knots korean air six two niner four
+atc-chn0-spk1-009 go cat four two niner contact singapore departure one two four decimal six
+atc-chn0-spk1-010 contact departure one two four decimal six go cat four two niner good days
+atc-chn0-spk1-011 singapore approach good afternoon speedbird one one descending flight level one five zero we are a seven four seven information quebec
+atc-chn0-spk1-012 speedbird one one continue on the arama one alpha arrival expect holding at bobag and further clearance at time five one
+atc-chn0-spk1-013 time five one we have a holding speed of two three zero knots is that approved speedbird one one
+atc-chn0-spk1-014 speedbird one one two three zero knots approved
+atc-chn0-spk1-015 thank you speedbird one one
+atc-chn0-spk1-016 speedbird one one approach 
+atc-chn0-spk1-017 go ahead speedbird one one
+atc-chn0-spk1-018 speedbird one one descend flight level one three zero enter the hold at bobag clearance time five one
+atc-chn0-spk1-019 speedbird one one please confirm our clearance
+atc-chn0-spk1-020 speedbird one one descend flight level one three zero enter the hold at bobag at two three zero knots expect further clearance at time five one
+atc-chn0-spk1-021 descend flight level one three zero hold bobag clearance time five one speedbird one one
+atc-chn0-spk1-022 can we still expect to leave the hold at time five one
+atc-chn0-spk1-023 speedbird one one affirm
+atc-chn0-spk1-024 speedbird one one can we get E A T as soon as possible E A T
+atc-chn0-spk1-025 speedbird one one roger standby
+atc-chn0-spk1-026 speedbird one one updated E A T is time zero three is that okay for you
+atc-chn0-spk1-027 understood stand by for our intentions speedbird one one
+atc-chn0-spk1-028 we are having an issue with fuel sir with an E A T of zero eight zero three it would help our fuel planning if we could take up the holding position nylon to the north of the airfield for our fuel planning without losing our position in the queue
+atc-chn0-spk1-029 speedbird one one say again please
+atc-chn0-spk1-030 requesting to take up the hold to the north of the airfield position nylon because it is closest to our diversion
+atc-chn0-spk1-031 speedbird one one continue hold at bobag for now if you move to nylon we cannot gurantee your approach position will be held it should only be a few more minutes
+atc-chn0-spk1-032 we require to come off the hold this time for an immediate approach or we will be diverting and declaring a fuel emergency
+atc-chn0-spk1-033 speedbird one one exit the hold track direct to samko you are number two for approach
+atc-chn0-spk1-034 number two can we expect an immediate arrival into runway two zero speedbird one one
+atc-chn0-spk1-035 affirm
+atc-chn0-spk1-036 speedbird one one descend to ten thousand feet Q N H one zero one five
+atc-chn0-spk1-037 descent to ten thousand feet speedbird one one we still require an approach time for us
+atc-chn0-spk1-038 speedbird one one can we reduce speed to two ten knots for better fuel burn
+atc-chn0-spk1-039 speedbird one one two ten knots approved
+atc-chn0-spk1-040 two ten knots speedbird one one
+atc-chn0-spk1-041 speedbird one one can we have a left turn please
+atc-chn0-spk1-042 speedbird one one turn left heading zero six zero
+atc-chn0-spk1-043 speedbird one one further left turn please and a distance to go for us
+atc-chn0-spk1-044 speedbird one one say again please
+atc-chn0-spk1-045 can we have a further left turn please and can we have a distance to go to landing speedbird one one
+atc-chn0-spk1-046 speedbird one one turn left heading zero five zero five five track miles left
+atc-chn0-spk1-047 five five track miles left we need accurate information sir accurate information
+atc-chn0-spk1-048 speedbird one one descend eight thousand
+atc-chn0-spk1-049 eight thousand feet speedbird one one
+atc-chn0-spk1-050 speedbird one one we require a left turn
+atc-chn0-spk1-051 singapore three four five apron hello start up and pushback approved
+atc-chn0-spk1-052 start up and pushback approved singapore three four five good morning
+atc-chn0-spk1-053 singapore three four five apron request taxi
+atc-chn0-spk1-054 singapore three four five taxi straight ahead on echo to holding position echo two
+atc-chn0-spk1-055 taxi straight ahead echo to holding position echo two singapore three four five
+atc-chn0-spk1-056 singapore three four five i missed the last part of your readback confirm echo two clearance limit
+atc-chn0-spk1-057 yeah hold short at echo two singapore three four five
+atc-chn0-spk1-058 swiss one one zero hotel roger taxi on juliet hold short runway two eight
+atc-chn0-spk1-059 taxi juliet hold short two eight swiss one one zero hotel
+atc-chn0-spk1-060 singapore three four five contact tower one one eight decimal one goodbye
+atc-chn0-spk1-061 one one eight decimal one bye bye singapore three four five
+atc-chn0-spk1-062 hi tower singapore three four five good morning
+atc-chn0-spk1-063 hello singapore three four five zurich tower i will call you back for departure time
+atc-chn0-spk1-064 singapore three four five
+atc-chn0-spk1-065 singapore three four five departure in eight minutes
+atc-chn0-spk1-066 thank you singapore three four five
+atc-chn0-spk1-067 singapore three four five behind the swiss airbus ahead line up runway one six
+atc-chn0-spk1-068 behind the swiss airbus line up runway one six singapore three four five super
+atc-chn0-spk1-069 seven one one just for your information we got a fox on a side of the aircraft
+atc-chn0-spk1-070 there is a fox around the aircraft is that correct
+atc-chn0-spk1-071 yes just slightly ahead of us
+atc-chn0-spk1-072 oh yeah we have to sort that out and send somebody thank you you may turn next right and then along the inner to the holding position alpha two
+atc-chn0-spk1-073 thanks next right inner for alpha two seven one one
+atc-chn0-spk1-074 finnair eight charlie alpha apron pushback and start up approved
+atc-chn0-spk1-075 good morning finnair eight charlie alpha we have to cancel our pushback because nobody is answering
+atc-chn0-spk1-076 roger report ready again
+atc-chn0-spk1-077 wilco finnair eight charlie alpha
+atc-chn0-spk1-078 speedbird seven one one standby tower one one eight decimal one bye bye
+atc-chn0-spk1-079 one one eight one seven one one bye
+atc-chn0-spk1-080 speedbird seven one one tower hello line up runway two eight and wait on departure crossing on runway one six
+atc-chn0-spk1-081 hello line up and wait runway two eight speedbird seven one one
+atc-chn0-spk1-082 singapore three four five wind calm runway one six cleared for takeoff
+atc-chn0-spk1-083 runway one six cleared for takeoff singapore three four five
+atc-chn0-spk1-084 singapore three four five stop takeoff i say again stop takeoff a fox is crossing the runway
+atc-chn0-spk1-085 stop takeoff singapore three four five
+atc-chn0-spk1-086 confirm vacate by where singapore three four five
+atc-chn0-spk1-087 taxi down the runway vacate into echo five it is about on the height of echo six to echo five the fox is crossing still on the runway i think
+atc-chn0-spk1-088 taxi straight ahead and vacate echo five singapore three four five
+atc-chn0-spk1-089 speedbird seven one one wind one zero zero degrees two knots runway two eight cleared for takeoff
+atc-chn0-spk1-090 cleared to takeoff speedbird seven one one
+atc-chn0-spk1-091 flying bulgaria four niner two hello line up runway two eight
+atc-chn0-spk1-092 hello flying bulgarian four niner two line up runway two eight
+atc-chn0-spk1-093 singapore three four five turn left into echo five and contact apron one two one decimal eight five 
+atc-chn0-spk1-094 echo five one two one eight five singapore three four five
+atc-chn0-spk1-095 apron singapore three four five hello again turning left on echo five
+atc-chn0-spk1-096 singapore three four five apron hello again are you ready for another try
+atc-chn0-spk1-097 affirm singapore three four five
+atc-chn0-spk1-098 roger then on the tarmac left turn on echo back to holding position echo two
+atc-chn0-spk1-099 left on echo to holding position echo two singapore three four five can we check where was the traffic that was impeding our takeoff
+atc-chn0-spk1-100 please say again
+atc-chn0-spk1-101 can we check the traffic that caused us to abort the takeoff where was the traffic crossing singapore three four five
+atc-chn0-spk1-102 singapore three four five it was actually a fox crossing the runway
+atc-chn0-spk1-103 copied thank you very much singapore three four five
+atc-chn0-spk1-104 your welcome
+atc-chn0-spk1-105 singapore three four five contact tower one one eight decimal one bye bye
+atc-chn0-spk1-106 one one eight decimal one bye bye singapore three four five
+atc-chn0-spk1-107 tower singapore three four five hello again
+atc-chn0-spk1-108 hello again singapore three four five continue taxi to echo one
+atc-chn0-spk1-109 taxi to echo one singapore three four five
+atc-chn0-spk1-110 singapore three four five do we have any estimated takeoff time
+atc-chn0-spk1-111 ten minutes
+atc-chn0-spk1-112 singapore three four five
+atc-chn0-spk1-113 taxiing to position echo one singapore three four five
+atc-chn0-spk1-114 correct thank you
+atc-chn0-spk1-115 singapore three four five
+atc-chn0-spk1-116 go ahead for singapore three four five
+atc-chn0-spk1-117 we observed the fox quite a while ago and then shortly after issuing the takeoff clearance it decided to cross the runway and that is why it was better to stop your takeoff roll it was a possibility that you hit it
+atc-chn0-spk1-118 thank you very much singapore three four five
+atc-chn0-spk1-119 singapore three four five line up runway one six and wait
+atc-chn0-spk1-120 line up runway one six and wait singapore three four five
+atc-chn0-spk1-121 croatia four six one tower hello line up runway two eight and wait you have around three and a half minutes until departure
+atc-chn0-spk1-122 singapore three four five wind two five zero degrees two knots runway one six cleared for takeoff
+atc-chn0-spk1-123 runway one six cleared for takeoff singapore three four five
+atc-chn0-spk1-124 croatia four six one tower line up runway two eight departure in three minutes
+atc-chn0-spk1-125 line up runway two eight croatia four six one
+atc-chn0-spk1-126 singapore three four five contact departure bye bye
+atc-chn0-spk1-127 over to departure bye bye singapore three four five thank you
