@@ -22,6 +22,10 @@ climb flight level one
 climb flight level two
 climb flight level three
 climb flight level four
+Maintain flight level one
+maintain flight level two
+maintain flight level three
+maintain flight level four
 descent flight level one
 descent flight level two
 descent flight level three
@@ -166,6 +170,7 @@ Fly heading
 Maintain heading
 Turn left 
 Turn right 
+affirm
 Clear take off runway
 Clear for takeoff
 cleared for takeoff
@@ -1094,3 +1099,283 @@ into echo
 via echo
 via whiskey
 on echo
+ten minutes
+fifteen minutes
+twenty minutes
+twenty five minutes
+thirty minutes
+thirty five minutes
+forty minutes
+forty five minutes
+fifty minutes
+fifty five minutes
+your welcome
+low flyby
+low approach
+missed approach
+runway heading
+holding short
+landing gear
+left traffic
+pattern altitude
+thanks for your help
+one alpha
+two alpha
+three alpha
+four alpha
+five alpha
+six Alpha
+seven alpha
+eight alpha
+niner alpha
+zero alpha
+one bravo
+two bravo
+three bravo
+four bravo
+five bravo
+six bravo
+seven bravo
+eight bravo
+niner bravo
+zero bravo
+one charlie
+two charlie
+three charlie
+four charlie
+five charlie
+six charlie
+seven charlie
+eight charlie
+niner charlie
+zero charlie
+one delta
+two delta
+three delta
+four delta
+five delta
+six delta
+seven delta
+eight delta
+niner delta
+zero delta
+one echo
+two echo
+three echo
+four echo
+five echo
+six echo
+seven echo
+eight echo
+niner echo
+zero echo
+one foxtrot
+two foxtrot
+three foxtrot
+four foxtrot
+five foxtrot
+six foxtrot
+seven foxtrot
+eight foxtrot
+niner foxtrot
+zero foxtrot
+one golf
+two golf
+three golf
+four golf
+five golf
+six golf
+seven golf
+eight golf
+niner golf
+zero golf
+one hotel
+two hotel
+three hotel
+four hotel
+five hotel
+six hotel
+seven hotel
+eight hotel
+niner hotel
+zero hotel
+one india
+two india
+three india
+four india
+five india
+six india
+seven india
+eight india
+niner india
+zero india
+one juliett
+two juliett
+three juliett
+four juliett
+five juliett
+six juliett
+seven juliett
+eight juliett
+niner juliett
+zero juliett
+one kilo
+two kilo
+three kilo
+four kilo
+five kilo
+six kilo
+seven kilo
+eight kilo
+niner kilo
+zero kilo
+one lima
+two lima
+three lima
+four lima
+five lima
+six lima
+seven lima
+eight lima
+niner lima
+zero lima
+one mike
+two mike
+three mike
+four mike
+five mike
+six mike
+seven mike
+eight mike
+niner mike
+zero mike
+one november
+two november
+three november
+four november
+five november
+six november
+seven november
+eight november
+niner november
+zero november
+one oscar
+two oscar
+three oscar
+four oscar
+five oscar
+six oscar
+seven oscar
+eight oscar
+niner oscar
+zero oscar
+one papa
+two papa
+three papa
+four papa
+five papa
+six papa
+seven papa
+eight papa
+niner papa
+zero papa
+one quebec
+two quebec
+three quebec
+four quebec
+five quebec
+six quebec
+seven quebec
+eight quebec
+niner quebec
+zero quebec
+one romeo
+two romeo
+three romeo
+four romeo
+five romeo
+six romeo
+seven romeo
+eight romeo
+niner romeo
+zero romeo
+one sierra
+two sierra
+three sierra
+four sierra
+five sierra
+six sierra
+seven sierra
+eight sierra
+niner sierra
+zero sierra
+one tango
+two tango
+three tango
+four tango
+five tango
+six tango
+seven tango
+eight tango
+niner tango
+zero tango
+one uniform
+two uniform
+three uniform
+four uniform
+five uniform
+six uniform
+seven uniform
+eight uniform
+niner uniform
+zero uniform
+one victor
+two victor
+three victor
+four victor
+five victor
+six victor
+seven victor
+eight victor
+niner victor
+zero victor
+one whiskey
+two whiskey
+three whiskey
+four whiskey
+five whiskey
+six whiskey
+seven whiskey
+eight whiskey
+niner whiskey
+zero whiskey
+one x ray
+two x ray
+three x ray
+four x ray
+five x ray
+six x ray
+seven x ray
+eight x ray
+niner x ray
+zero x ray
+one yankee
+two yankee
+three yankee
+four yankee
+five yankee
+six yankee
+seven yankee
+eight yankee
+niner yankee
+zero yankee
+one zulu
+two zulu
+three zulu
+four zulu
+five zulu
+six zulu
+seven zulu
+eight zulu
+niner zulu
+zero zulu
