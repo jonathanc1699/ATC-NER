@@ -49,4 +49,4 @@ ATC: SKYBIRD six zero two, clear to land, runway two six wind two three zero deg
 Pilot: Cleared to land runway two six, SKYBIRD six zero two 
 Pilot: GO CAT two one five two, passing flight level one four zero at this time
 ATC: GO CAT two one five two contact Singapore departure one two four decimal six
-Piot: one two four decimal six, GO CAT two one five two. Good day
+Pilot: one two four decimal six, GO CAT two one five two. Good day
