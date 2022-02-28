@@ -1,0 +1,52 @@
+ Pilot: RED CAP five one niner seven ready lineup.
+ATC: RED CAP five one niner seven runway two six , clear for takeoff
+Pilot: Clear for takeoff runway two six RED CAP five one niner seven
+Pilot: RED CAP five one niner seven passing two thousand, request heading two four five due weather.
+ATC: Copy, RED CAP five one niner seven fly heading two four five
+Pilot: RED CAP five one niner seven
+ATC: RED CAP five one niner seven climb flight level one eight zero
+Pilot: Climb flight level one niner zero, RED CAP five one niner seven
+ATC: Negative, Climb flight level one eight zero
+Pilot: flight level one eight zero, RED CAP five one niner seven
+ATC: and report passing flight level one four zero thank you
+Pilot: Report passing flight level one four zero, RED CAP five one niner seven
+Pilot: RED CAP five one niner seven passing flight level one four zero
+ATC: RED CAP five one niner seven continue climb flight level one eight zero and maintain heading, switch to one six zero decimal six
+Pilot: Maintain heading, continue climb flight level one eight zero, switching to one six zero decimal six RED CAP five one niner seven
+ATC: SINGAPORE three eight four two heavy turn right heading zero one zero, maintain three thousand feet
+Pilot: heavy turn zero one zero, maintain three thousand, SINGAPORE three eight four two.
+Pilot: Singapore Tower, GO CAT two one five two
+ATC: GO CAT two one five two, Singapore Tower, go ahead
+Pilot: GO CAT two one five two, request ATC clearance to Kuala Lumpur, flight level two three zero
+ATC: GO CAT two one five two , cleared to Kuala Lumpur, via flight planned route, flight level two three zero, squawk two four zero zero
+Pilot: GO CAT two one five two, cleared to Kuala Lumpur, via flight planned route, flight level two three zero, squawk two four zero zero
+ATC: GO CAT two one five two, contact Singapore Ground one two zero decimal three
+Pilot: contact Singapore Ground one two zero decimal three, GO CAT two one five two
+Pilot: Singapore Tower, JETSTAR eight seven three, ready for departure 
+ATC: JETSTAR eight seven three, surface wind two zero zero degrees, one zero knots, climb to three thousand feet, runway two six, cleared for takeoff
+Pilot:  cleared for takeoff runway two six, climb three thousand feet. JETSTAR eight seven three
+ATC: JETSTAR eight seven three, climb flight level one six zero, report passing flight level one two zero
+Pilot: climb flight level one six zero, report passing flight level one two zero, JETSTAR eight seven three
+Pilot: Singapore Tower, SINGAPORE three eight four two, finals, runway two six.
+ATC: SINGAPORE three eight four two, clear to land, runway two six wind two seven zero degrees, one zero knots
+Pilot: Cleared to land runway two six, SINGAPORE three eight four two
+Pilot: JETSTAR eight seven three passing flight level one two zero
+ATC: JETSTAR eight seven three, contact Singapore departure one two four decimal six
+Pilot: Contact Singapore Departure, one two four decimal six JETSTAR eight seven three
+Pilot: Singapore Tower, GO CAT two one five two, lined up runway two six, ready for departure
+ATC: GO CAT two one five two, Singapore Tower, surface wind two two zero degrees, eight knots, climb to three thousand feet, runway two six, cleared for takeoff
+Pilot: clear takeoff runway two six, climb three thousand, GO CAT two one five two
+Pilot: Singapore Tower, SKYBIRD six zero two, currently holding over PAPA
+ATC: SKYBIRD six zero two, Singapore Tower, go ahead
+Pilot:  Requesting to land due to bingo fuel, SKYBIRD six zero two
+ATC: Copy, SKYBIRD six zero two turn left heading zero niner zero descent niner thousand feet 
+Pilot: left turn heading zero niner zero, descent niner thousand feet, SKYBIRD six zero two
+ATC: GO CAT two one five two, climb flight level one niner zero, report passing flight level one four zero 
+Pilot:  climb flight level one niner zero, report passing flight level one four zero, GO CAT two one five two 
+ATC: SKYBIRD six zero two, report finals
+Pilot: SKYBIRD six zero two, finals, runway two six
+ATC: SKYBIRD six zero two, clear to land, runway two six wind two three zero degrees, one two knots
+Pilot: Cleared to land runway two six, SKYBIRD six zero two 
+Pilot: GO CAT two one five two, passing flight level one four zero at this time
+ATC: GO CAT two one five two contact Singapore departure one two four decimal six
+Piot: one two four decimal six, GO CAT two one five two. Good day

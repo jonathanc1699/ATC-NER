@@ -1,0 +1,105 @@
+pilot: Amsterdam hello K L M two five bravo passing two thousand
+atc: hello K L M two five bravo climb flight level niner zero
+pilot: flight level niner zero K L M two five bravo
+atc: K L M two five bravo call one two four eight eight zero
+pilot: standby K L M two five bravo we might have to take care of a problem
+atc: okay maintain flight level one three zero you can stay on this frequency
+pilot: maintain one three zero copied K L M two five bravo
+atc: amsterdam K L M two five bravo
+atc: go ahead
+pilot: we would like to return to schihol we need about ten minutes to complete procedures inform passengers and probably lose some weight
+atc: okay two five bravo turn left heading three five zero
+pilot: left turn heading three five zero K L M two five bravo
+atc: are you okay with vectors
+pilot:yes but we need about ten more minutes related to weight and we can land but we have to brief the cabin and get set up
+atc: but if i call you is that ok
+pilot: no that is not a problem we do not have any failure or anything now it is just a vibration when on full power for now only at full power but from company they would like us to return
+atc: expect three six right for landing
+pilot: three six right copy that K L M two five bravo
+pilot: departure K L M three niner yankee
+atc: hello K L M three niner yankee climb flight level one three zero radar contact
+pilot: climb flight level one three zero K L M three niner yankee
+atc: K L M two five bravo descend flight level one one zero and contact one two six decimal six eight zero discrete frequency
+pilot: descend flight level one one zero and one two six six eight zero K L M two five bravo
+pilot: amsterdam hello K L M two five bravo descending flight level one one zero
+atc: K L M two five bravo this is discrete frequency at the moment so you can take all your time expect a left turn here in a few miles to keep you near the field
+pilot: roger and we are ready for the approach K L M two five bravo
+atc: sorry you said you are ready for the approach
+pilot: affirm
+atc: K L M two five bravo turn left heading one niner zero
+pilot: left heading one niner zero K L M two five bravo
+atc:K L M two five bravo just to be sure no assistance needed upon landing 
+pilot: negative for the moment not K L M two five bravo
+atc: okay that is copied and i am gonna sort things about the runways wind is right in between the three six right and the runway two seven
+pilot: crosswind limit is three one so not a problem K L M two five bravo
+atc: that is copied at the moment two seven gives you three one zero two niner gusting forty and i see crosswind of two niner for that
+pilot: we can accept two seven if that is more convenient two five bravo
+atc: yea i am going to coordinate with the tower
+pilot: in the meantime request further descent K L M two five bravo
+atc: K L M two five bravo heading one eight zero descend flight level niner zero
+pilot: one eight zero descend flight level niner zero K L M two five bravo
+atc: K L M two five bravo it will be runway two seven descend now to flight level five zero
+pilot: two seven and descend flight level five zero K L M two five bravo
+atc: K L M two five bravo turn left heading one six zero i will give you some extra track miles
+pilot: left one six zero K L M two five bravo
+atc: K L M two five bravo you will cross the localizer for the altitude so no rush for that it will be a right turn after corossing the localizer
+pilot: that is copied roger K L M two five bravo
+atc: K L M two five bravo turn right heading two four zero 
+pilot: right turn two four zero K L M two five bravo
+pilot: K L M two five bravo any windshear report last half an hour
+atc: two five bravo descend now to negative maintain flight level five zero for the time
+pilot: maintain five zero K L M two five zero
+atc: K L M two five bravo no windshear reported on runway two seven for the last half hour and for your information it is going to be a slight delay vectors to vector you behind traffic landing on the three six right for now turn right heading three six zero
+pilot: right turn three six zero K L M two five bravo
+atc: K L M two five bravo descend to two thousand feet Q N H one zero one zero
+pilot: two thousand one zero one zero K L M two five bravo
+atc: etihad four eight sierra approach
+pilot:  etihad four eight sierra
+atc: etihad four eight sierra the latest wind for the runway three six right is three two zero degrees with two two gusting four five is this still outside of your limits
+pilot: still outside our limits we will hold around ten minutes or so and then we will make a decision
+atc: roger keep me updated
+pilot: thank you
+atc: K L M five two golf reduce speed to two hundred knots 
+pilot: speed two hundred K L M five two golf
+atc: ryanair three one yankee zulu speed two twenty descend flight level four zero correction descend flight level four five
+pilot: descending flight level four five ryanair three one yankee zulu
+atc: K L M one zero seven four turn right heading one four zero
+pilot: right heading one four zero K L M one zero seven four
+atc: easy one seven november romeo number one call tower one one niner decimal two three zero
+pilot: departure hello alpine niner three charlie bravo passing flight level three zero climbing flight level six zero volla three victor
+atc: alpine niner three charlie bravo climb flight level three zero
+pilot: climb flight level one three zero alpine niner three charlie bravo
+atc: K L M five two golf descend flight level four five
+pilot: flight level four five K L M five two golf
+atc: etihad four eight sierra let me know what your limits are please for runway three six right
+pilot: standby eithad four eight sierra
+atc: K L M two five bravo the heading three zero zero cleared I L S approach runway two seven
+pilot: heading three hundred cleared I L S two seven K L M two five bravo
+atc: K L M two five bravo at the moment crosswind is showing two niner the wind is three one zero three three gusting four two even going down to two eight
+pilot: roger K L M two five bravo
+atc: are you fully established
+pilot: affirm K L M two five bravo
+atc: K L M two five bravo contact the tower one one niner decimal two three zero
+pilot: one one niner two three thank you K L M two five bravo
+atc: you are welcome
+pilot: tower hello K L M two five bravo established I L S two seven
+atc: K L M two five bravo runway two seven the wind is about stand by here shortly for that wind over there is three one zero three four maximum is forty two
+pilot: roger K L M two five bravo
+atc: you are number one
+atc: K L M two five bravo runway two seven three one zero two niner gust four two clear to land
+pilot: two seven cleared to land K L M two five bravo
+pilot: tower hello K L M five two golf three six right
+atc: hello K L M five two golf three six right three two zero two five gust four two cleared to land
+pilot: ok cleared to land three six right in case of missed approach we would like to climb two thousand feet
+atc: K L M five two golf approved
+
+
+
+
+
+
+
+
+ 
+
+
