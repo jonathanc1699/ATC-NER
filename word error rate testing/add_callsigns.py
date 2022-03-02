@@ -1,13 +1,14 @@
 ## Name: Jonathan Chang
 ## Role: Intern for ATC LM adaptation
-## Date: 20/02/2022
+## Date: 28/02/2022
 ## Description: This script is used to add callsigns to the current hotwords list for testing. Ensure that both files are in the same directory as this program.
 ## Last change: inital creation
 
 
-#declaring callsigns file and hotwords file
+#input names of callsigns file and hotwords file
 firstfile = input("Enter the name of hotwords list txt file: ")
 secondfile = input("Enter the name of callsigns txt file: ")
+
 # opening both files in read only mode to read initial contents
 f1 = open(firstfile, 'r')
 f2 = open(secondfile, 'r')
@@ -19,7 +20,7 @@ print('content of second file before appending : \n', f2.read())
 # closing the files
 f1.close()
 f2.close()
- 
+
 # opening first file in append mode and second file in read mode
 f1 = open(firstfile, 'a+')
 f2 = open(secondfile, 'r')
