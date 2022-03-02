@@ -19,7 +19,6 @@ singapore tower go cat two one five two
 go cat two one five two singapore tower go ahead
 go cat two one five two request A T C clearance to Kuala Lumpur flight level two three zero
 go cat two one five two cleared to Kuala Lumpur via flight planned route flight level two three zero squawk two four zero zero
-go cat two one five twocleared to Kuala Lumpur via flight planned route flight level two three zero squawk two four zero zero
 go cat two one five two contact singapore ground one two zero decimal three
 contact singapore Ground one two zero decimal three go cat two one five two
 singapore tower jetstar eight seven three ready for departure 
@@ -36,8 +35,8 @@ Contact singapore departure one two four decimal six jetstar eight seven three
 singapore tower go cat two one five two lined up runway two six ready for departure
 go cat two one five two singapore tower surface wind two two zero degrees eight knots climb to three thousand feet runway two six cleared for takeoff
 clear takeoff runway two six climb three thousand go cat two one five two
-singapore tower skybird six zero twocurrently holding over PAPA
-skybird six zero twosingapore towergo ahead
+singapore tower skybird six zero two currently holding over papa
+skybird six zero two singapore tower go ahead
 requesting to land due to bingo fuel skybird six zero two
 copy skybird six zero two turn left heading zero niner zero descent niner thousand feet 
 left turn heading zero niner zero descent niner thousand feet skybird six zero two
@@ -84,7 +83,6 @@ two ten knots speedbird one one
 speedbird one one can we have a left turn please
 speedbird one one turn left heading zero six zero
 speedbird one one further left turn please and a distance to go for us
-speedbird one one say again please
 can we have a further left turn please and can we have a distance to go to landing speedbird one one
 speedbird one one turn left heading zero five zero five five track miles left
 five five track miles left we need accurate information sir accurate information
@@ -144,7 +142,6 @@ tower hello again lufthansa niner lima yankee
 lufthansa nine lima yankee hold position there is a car of the airport authority crossing left to right i will call you shortly
 holding position lufthansa niner lima yankee
 the fire brigade might vacate via the same taxiway as you are
-edelweiss five nine nine romeo
 we would like to taxi to stand and the fire brigade will accompany us to the stand so we should be able to taxi
 edelweiss five nine nine romeo roger that taxi along the runway and vacate first to the right via juliett
 taxi along the runway and vacate to the right via juliett edelweiss five nine nine romeo
@@ -223,7 +220,6 @@ roger so you are saying giant eight zero eight eight is cleared to begin jettiso
 giant eighty eighty eight heavy affirmative there is no approval necessary on our part i will keep everybody clear of your area until you are done just let me know when you are done
 commencing fuel jettison giant eight zero eight eight
 attention all aircraft fuel dumping in progress two five miles east of baltimore four thousand feet fuel dumping is by a heavy boeing seven four seven northeast bound currently and turning southwest bound here in a couple of minutes
-giant eighty eighty eight heavy turn left heading two seven zero
 giant eighty eighty eight heavy turn left heading two one zero
 left heading two one zero giant eight zero eight eight
 giant eight zero eight eight has concluded the dumping and we are ready to return to baltimore runway two eight
@@ -269,7 +265,6 @@ amsterdam hello K L M two five bravo descending flight level one one zero
 K L M two five bravo this is discrete frequency at the moment so you can take all your time expect a left turn here in a few miles to keep you near the field
 roger and we are ready for the approach K L M two five bravo
 sorry you said you are ready for the approach
-affirm
 K L M two five bravo turn left heading one niner zero
 left heading one niner zero K L M two five bravo
 K L M two five bravo just to be sure no assistance needed upon landing 
@@ -302,7 +297,6 @@ etihad four eight sierra approach
 etihad four eight sierra the latest wind for the runway three six right is three two zero degrees with two two gusting four five is this still outside of your limits
 still outside our limits we will hold around ten minutes or so and then we will make a decision
 roger keep me updated
-thank you
 K L M five two golf reduce speed to two hundred knots 
 speed two hundred K L M five two golf
 ryanair three one yankee zulu speed two twenty descend flight level four zero correction descend flight level four five
@@ -328,7 +322,6 @@ one one niner two three thank you K L M two five bravo
 you are welcome
 tower hello K L M two five bravo established I L S two seven
 K L M two five bravo runway two seven the wind is about stand by here shortly for that wind over there is three one zero three four maximum is forty two
-roger K L M two five bravo
 you are number one
 K L M two five bravo runway two seven three one zero two niner gust four two clear to land
 two seven cleared to land K L M two five bravo
@@ -391,16 +384,13 @@ singapore three four five it was actually a fox crossing the runway
 copied thank you very much singapore three four five
 your welcome
 singapore three four five contact tower one one eight decimal one bye bye
-one one eight decimal one bye bye singapore three four five
 tower singapore three four five hello again
 hello again singapore three four five continue taxi to echo one
 taxi to echo one singapore three four five
 singapore three four five do we have any estimated takeoff time
 ten minutes
-singapore three four five
 taxiing to position echo one singapore three four five
 correct thank you
-singapore three four five
 go ahead for singapore three four five
 we observed the fox quite a while ago and then shortly after issuing the takeoff clearance it decided to cross the runway and that is why it was better to stop your takeoff roll it was a possibility that you hit it
 thank you very much singapore three four five
@@ -408,7 +398,6 @@ singapore three four five line up runway one six and wait
 line up runway one six and wait singapore three four five
 croatia four six one tower hello line up runway two eight and wait you have around three and a half minutes until departure
 singapore three four five wind two five zero degrees two knots runway one six cleared for takeoff
-runway one six cleared for takeoff singapore three four five
 croatia four six one tower line up runway two eight departure in three minutes
 line up runway two eight croatia four six one
 singapore three four five contact departure bye bye
@@ -431,7 +420,6 @@ climb six thousand feet go cat two six three eight
 go cat two six three eight climb to flight level one four zero
 climb flight level one four zero go cat two six three eight
 i missed that sir go cat two six three eight climb to flight level one four zero
-climb flight level one four zero go cat two six three eight
 and radar go cat two six three eight
 go ahead for go cat two six three eight
 request to hold due to technical
@@ -464,10 +452,8 @@ roger heading zero nine zero go cat two six three eight thank you
 go cat two six three eight i need to double check if some passengers informed that the left hand engine cowling has came off
 yes that is what the passengers reported and the flight attendants as well so the intention is to return to singapore all indications are currently normal
 ok i understand can you spell for me cowling
-C O W L I N G
 ok copied that
 and singapore go cat two six three eight
-go ahead
 requesting radar vectors for runway zero two left correction zero two centre
 do you require any fuel jettison
 we are not able for that we are able for overweight landing so that is not a problem we would like to enter a holding sir
@@ -486,7 +472,6 @@ go cat two six three eight runway will be zero two centre now
 thank you zero two centre go cat two six three eight
 go cat two six three eight any assistance required
 go cat two six three eight negative
-thank you
 go cat two six three eight turn right heading two zero zero contact arrival on one one niner three
 roger two zero zero one one nine three go cat two six three eight
 radar arrival this is go cat two six three eight seven thousand feet heading two zero zero request slight delay
@@ -496,7 +481,6 @@ go cat to six three eight request how long of a delay do you require
 about one zero minutes go cat two six three eight
 ok understood can i bring you somewhere further down south a little bit to hold
 that is affirm go cat two six three eight
-ok copied that
 go cat two six three eight request reason for the ten minutes hold
 we are doing briefing and landing distance calculation go cat two six three eight
 ok understood
@@ -512,7 +496,6 @@ request reduce further to one seven zero knots go cat two six three eight
 go cat two six three eight speed one seven zero knots approved
 reducing one seven zero go cat two six three eight
 go cat two six three eight request one seventy knots
-go cat two six three eight speed one seven zero knots approved
 one seventy knots go cat two six three eight
 go cat two six three eight request further descent
 go cat two six three eight descend now to two thousand five hundred feet cleared I L S approach runway zero two centre
@@ -532,7 +515,6 @@ ok go cat two six three eight just to confirm your error message now on your boa
 yes we have to go through the service procedures for the landing gear unsafe please give us five minutes we will try to verify the gear extension and come back to you go cat two six three eight
 ok understood thank you
 go cat two six three eight are you able to take a further right turn i will position you for holding
-affirm
 ok turn right heading one five zero maintain four thousand feet
 heading one five zero four thousand feet go cat two six three eight
 go cat two six three eight turn right heading one eight zero
@@ -542,23 +524,19 @@ standby for go cat two six three eight
 understood
 mayday mayday mayday go cat two six three eight at four thousand feet on heading one eight zero we do have an unsafe gear warning request to delay the approach for at least one hour to reduce the weight of the aircraft P O B is one eight three registration nine victor tango romeo hotel
 go cat two six three eight copied one eight three P O B and copied your registration and we will be positioning you to hosba to hold for one hour confirm that will be ok
-affirm
 ok go cat two six three eight turn left heading of zero two zero
 left heading zero two zero go cat two six three eight
 and go cat two six three eight copy your mayday call and we will be vectoring you to hold at hosba for one hour
 go cat two six three eight roger
 and just to confirm your holding endurance
 go cat two six three eight we can hold for three and a half hours
-understood
 go cat two six three eight would you like to climb for your hold at hosba six thousand initially
 we would like to maintain four thousand feet go cat two six three eight
-understood
 go cat two six three eight are you able to resume navigation for hosba to hold or do you require vectors
 we can proceed to hosba proceeding now to hosba enter the hold go cat two six three eight
 thank you go cat two six three eight
 go cat two six three eight contact singapore departure one two zero decimal three
 go cat two six three eight one two zero three
-affirm
 go cat two six three eight singapore departure
 go cat two six three eight go ahead
 go cat two six three eight to hold over hosba
@@ -572,12 +550,9 @@ landing gear unsafe landing gear unsafe on the left side the main landing gear o
 go cat two six three eight copied on the approach landing gear on the left side is not down according to indications
 affirm go cat two six three eight we will continue the hold and we will call you when we are ready for the approach the aircraft probably needs to be towed from the runway
 ok confirm the aircraft needs to be towed after landed
-affirm
 and go cat two six three eight just to check after landed you have to be towed can you vacate the runway on your own power initially
 that is negative go cat two six three eight we suspect we need to be towed off the runway
 no problem no problem
-go cat two six three eight singapore departure
-go ahead for go cat two six three eight
 ok check with you is your hydraulic tank safe
 standby go cat two six three eight
 departure say again for go cat two six three eight
@@ -591,7 +566,6 @@ and departure go cat two six three eight hydraulic indications are normal
 confirm your hydraulic indication is normal
 affirmative they are normal go cat two six three eight
 departure go cat two six three eight
-go cat two six three eight go ahead
 we will be ready for the approach in about two zero minutes
 go cat two six three eight two zero minutes copied
 go cat two six three eight just to check again in two zero minutes you will be ready to set course
@@ -599,24 +573,15 @@ yes affirmative in two zero minutes ready to set course from hosba for zero two 
 ok thank you and Q N H now one zero one two
 one zero one two go cat two six three eight
 go cat two six three eight departure
-go ahead for go cat two six three eight
 go cat two six three eight from the airport emergency services they would like to know if you are confident to make the landing
 go cat two six three eight we are able for a landing however we do have a landing gear unsafe warning on the left main gear
 go cat two six three eight understand the left main gear there is an unsafe warning but however the officer from the airport emergency would like to know whether you are confident to make the landing
-affirm
-ok thank you
 and go cat two six three eight is the warning light for the landing gear still lighted up now
 that is affirmative for the left gear
 understand it is still lighted up for the left gear
-affirmative
-go cat two six three eight departure
-go ahead for go cat two six three eight
 go cat two six three eight would ou like to have a fly past on the runway and have the engineers inspect your landing gear
 affirm go cat two six three eight we can accept that
 copied we will coordinate for this request
-go cat two six three eight
-go cat two six three eight departure
-go ahead for go cat two six three eight
 go cat two six three eight for the inspection of the landing gear just to check are you going to do like a low overshoot and for the engineers to inspect and roughly about how many hundred feet
 singapore departure good evening go cat two six two four with you passing one thousand two hundred we are climbing three thousand aroso two alpha departure
 go cat two six two four singapore departure identified climb to six thousand feet
@@ -635,12 +600,10 @@ standing by
 go cat two six three eight turn right now turn right heading of two six zero
 right heading two six zero go cat two six three eight
 and go cat two six three eight be advised we have already got the airline to inform the engineers for inspection however we have no updates on the location of the engineers to be ready for the inspection
-go cat two six three eight roger
 and departure go cat two six three eight
 go cat two six three eight say again
 go cat two six three eight we just talked to control and they said A T C will advise when the engineers are ready for our overshoot confirm
 ok go cat two six three eight we just need to get the engineers ready so that you can come in for the approach but however we do not have any estimates when the engineers will be there
-go cat two six three eight roger
 go cat two six three eight is that the same information you got from your control
 yea affirm they said that A T C will advise us when we can make the approach so i guess they should be in contact with you soon
 ok go cat two six three eight new update they will be there in one zero minutes time
@@ -651,7 +614,6 @@ go cat two six three eight stop turn heading two four zero
 heading two four zero go cat two six three eight
 go cat two six three eight just to confirm again it is the left landing gear
 affirmative left landing gear go cat two six three eight
-thank you
 go cat two six three eight request to track to lasin for a visual pattern for zero two centre go cat two six three eight
 go cat two six three eight can you say again the point
 from lasin
@@ -675,7 +637,6 @@ go cat two six three eight be advised if you make your low overshoot now there w
 go cat two six three eight request your intentions
 did they give you any estimates on how long they need to be prepared for go cat two six three eight
 ok i will check on that standby sir
-standing by
 ok go cat two six three eight the engineers are ready now descend to two thousand five hundred feet turn right heading two eight zero
 right heading two eight zero descending two thousand five hundred feet go cat two six three eight
 go cat two six three eight turn right heading three five zero report established on the I L S zero two centre
@@ -696,13 +657,11 @@ go cat two six three eight and advise when you have your landing gear down
 the landing gear is down go cat two six three eight
 go cat two six three eight copied do you require any assistance
 negative go cat two six three eight we are just making the overshoot now
-go cat two six three eight roger
 be advised we declared a mayday about one hour ago so i expect the equipment to standby for the landing
 go cat two six three eight say again sir
 we declared a mayday about one hour ago so i do expect the equipment on standby all of the equipment
 go cat two six three eight copied the engineers are already on standby at echo six they will be observing your aircraft for the landing gear
 go cat two six three eight going around climbing three thousand and right turn heading one one zero
-go cat two six three eight contact singapore departure one two zero decimal three
 departure go cat two six three eight climbing three thousand feet and right turn heading one one zero
 go cat two six three eight singapore departure and maintain three thousand feet Q N H one zero one two we will keep you advised on the details from the engineers
 three thousand feet one zero one two go cat two six three eight
@@ -713,12 +672,10 @@ go cat two six three eight roger ready for the approach zero two centre
 go cat two six three eight roger confirm decision to continue with the landing
 that is affirmative
 go cat two six three eight contact arrival now one one niner decimal three
-one one nine three go cat two six three eight
 arrival go cat two six three eight three thousand feet heading two zero zero
 go cat two six three eight singapore arrival maintain three thousand feet on heading two zero zero
 maintaining three thousand heading two zero zero go cat two six three eight
 go cat two six three eight you have approximately another twenty five track miles to touchdown
-go cat two six three eight roger
 and you are number one
 two six three eight
 go cat two six three eight descend to two thousand five hundred feet
@@ -738,7 +695,6 @@ cleared to land zero two centre go cat two six three eight
 go cat two six three eight stopping on runway for two minutes
 copied
 tower did you copy that go cat two six three eight
-go cat two six three eight copied
 tower go cat two six three eight vacating the runway
 go cat two six three eight confirm able taxi on your own
 that's affirmative go cat two six three eight
@@ -749,10 +705,8 @@ on the greens one two one eight five go cat two six three eight
 american twenty six sixty six contact departure good morning
 twenty six sixty six departure
 tower american twenty six sixty six
-go ahead
 yea we think we had a bird strike on takeoff we would like to come back around and land
 do you need vectors immediately back to the airport
-affirmative
 american twenty six sixty six turn left heading two nine zero
 left two nine zero american twenty six sixty six
 american twenty six sixty six contact departure on one three three decimal zero and they will bring you right back in
@@ -774,7 +728,6 @@ affirmative for american twenty six sixty six
 american twenty six sixty six fly heading three six zero
 three six zero for american twenty six sixty six
 let me know please when you have time for a couple of questions
-go ahead
 just verify you are not an emergency
 yea we are declaring an emergency at this time american twenty six sixty six
 ok any damage reported and what was the location on the runway when it happened
@@ -820,3 +773,74 @@ korean air six two niner four increase speed to three zero zero knots
 increase speed to three zero zero knots korean air six two niner four
 go cat four two niner contact singapore departure one two four decimal six
 contact departure one two four decimal six go cat four two niner good day
+swiss niner two wind three four degrees three knots runway three two cleared for takeoff
+cleared for takeoff runway three two swiss niner two
+swiss niner two do you have hot brakes
+swiss niner two stopping on the runway i will call you back
+tower swiss niner two
+we had a smoke warning for the crew rest area so far we have not found anything and call you back for further
+swiss niner two that is copied you had a smoke warning in the crew area
+affirm so far nothing has been found so we will call you back
+tower swiss niner two we are able to taxi and we would like to vacate the runway via hotel one if that is allowed and then stop somewhere convenient for you and continue for further notification
+swiss niner two affirm if you can make the turn into hotel one you can taxi along the runway and vacate left into hotel one
+vacate the runway via hotel one swiss niner two
+swiss niner two for taxi contact now apron on one two one decimal eight five five
+one two one eight five five swiss niner two
+apron swiss niner two vacating via hotel one
+swiss niner two apron good evening on hotel one continue via hotel juliett into charlie two for troubleshooting
+swiss niner two if you would like you can just stop right there in case you have to go back to the stand that would be closer
+no we will continue to charlie two and see what happened
+apron swiss niner two
+yes seems like we got rid of the smoke warning so we would like to try another go we are ready in about two to three minutes
+ok that is fine would you like to taxi forward or would you like to call me back when you are ready
+i will call you when we are ready swiss niner two
+apron swiss niner two we are ready again
+swiss niner two roger then taxi via kilo to the holding point runway three two and standby on tower one one eight decimal one 
+via kilo to runway three two swiss niner two
+swiss niner two heavy tower hello again line up runway three two and confirm fully ready
+we are not ready yet but we are lining up runway three two swiss niner two
+swiss niner two roger you can line up and report ready on the runway
+lining up call you ready swiss niner two
+swiss niner two wind calm runway three two cleared for takeoff
+swiss niner two stopping again on the runway
+swiss niner two roger
+yes same problem again do not know where it came from request to stop operations but we are normal at the moment
+you want to taxi back to the stand now
+yes please
+swiss niner two roger you can taxi forward and vacate left into hotel one
+forward left hotel one swiss niner two
+swiss niner two for further contact apron one two one decimal eight five five
+swiss niner two apron
+vacating on hotel one
+swiss niner two roger then continue taxi hotel juliett and charlie now to stand echo four six
+hotel juliett chaarlie echo four six swiss niner two
+swiss seven seven seven one we are ready for push and engine start from alpha one
+swiss seven seven seven one heavy engine start and pushback at your own discretion just give me a call when you are ready for taxi
+alright will call you for taxi swiss seven seven seven one
+ground swiss seven seven seven one pushed on alpha one holding short alpha runway one six right
+swiss seven seven seven one heavy runway one six right taxi via alpha altimeter two niner niner seven wind one five zero at seven
+taxiway alpha altimeter two niner niner seven swiss seven seven seven one confirm tower one three two niner five
+swiss seven seven seven one heavy that is correct contact tower ready for departure one three two decimal niner five
+one three two decimal niner five thank you bye bye swiss seven seven seven one
+swiss seven seven seven one heavy runway one six right cleared for takeoff fly runway heading maintain three thousand feet
+cleared for takeoff runway one six right swiss seven seven seven one
+swiss seven seven seven one heavy contact seattle approach one two eight decimal five
+one two eight five thank you bye bye swiss seven seven seven one
+tower swiss seven seven seven one established I L S one six
+swiss seven seven seven one tower welcome home wind two hundred degrees runway one six cleared for low pass
+ok cleared to low pass runway one six swiss seven seven seven one
+and after the low pass follow standard missed approach procedure one six
+standard missed approach procedure copied swiss seven seven seven one
+swiss seven seven seven one going around
+swiss seven seven seven one roger follow standard missed approach
+swiss seven seven seven one contact arrival one one eight zero goodbye
+one one eight zero bye swiss seven seven seven one
+zurich tower hello again swiss seven seven seven one established I L S one six
+hello again swiss seven seven seven one welcome back wind two niner zero degrees two knots runway one six cleared to land
+cleared to land runway one six swiss seven seven seven one
+swiss seven seven seven one the plan is that you vacate via echo eight and if you are slow enough vehicles will enter the runway via echo seven i will keep you updated
+ok echo eight copied swiss seven seven seven one
+swiss seven seven seven one three cars will now enter on runway from echo seven
+ok and speed is under control swiss seven seven seven one
+swiss seven seven seven one contact apron please one two one decimal seven five for further
+one two one seven five thank you very much swiss seven seven seven one
