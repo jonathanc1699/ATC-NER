@@ -1,6 +1,6 @@
-outfile=open("text no dup.txt","w")
+outfile=open("text_no_dup.txt","w")
 lines_seen=set()
-with open("text copy.txt","r") as f:
+with open("text.txt","r") as f:
     for line in f:
         line=line.rstrip("\n")
         if line not in lines_seen:
