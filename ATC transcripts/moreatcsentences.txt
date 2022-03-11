@@ -1,0 +1,24 @@
+go cat two three two two standby
+laos five five six intercept I L S runway two zero right report when established
+jetstar asia five one one reduce speed two three zero knots
+jetstar asia seven two one enter holding bobag flight level two zero zero
+go cat two niner three four resume own navigation
+air india three eight zero climb flight level two niner zero
+silk air three one niner descend flight level three four zero
+firefly three five two five turn left heading one eight zero
+go cat two niner three four turn right heading one two zero
+jetstar asia five one one contact singapore tower at frequency one one two decimal four
+singapore four two two standby
+singapore four two two enter holding lavax at flight level one eight zero
+jetstar asia five five five reduce speed two three zero knots
+silk air three three two intercept i l s runway two zero centre report when established
+go cat two three two two resume own navigation
+air india eight three eight zero climb six thousand feet
+silk air three one niner descend four thousand feet
+singapore four two two climb flight level two niner zero
+jetstar asia five one one turn right heading one eight zero
+silk air niner seven two reduce speed two two zero knots
+jetstar asia seven two one turn right heading one two zero
+go cat two niner three four resume own navigation
+laos five five six standby
+jetstar asia seven two one enter holding paspu at flight level one niner zero 
