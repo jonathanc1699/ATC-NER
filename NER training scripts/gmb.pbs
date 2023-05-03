@@ -1,0 +1,44 @@
+## Set job parameters
+
+## Job Name
+#PBS -N bulk_gmb_v4
+
+## Project Funding Code E,g. eee_userid
+#PBS -P scse_aseschng
+
+## Queue  Name
+##PBS -q q64_ht
+#PBS -q gpu_free
+
+## By default error and output files are in format  <job_name>.e<JOB_ID> and <job_name>.o<JOB_ID>.
+## If you don't want in this format, you can change it as follows
+##PBS -o my_output.out
+##PBS -e my_error.err
+
+## Specify walltime in HH:MM:SS
+#PBS -l walltime=04:00:00
+
+## Select 1 hosts (nodes) with 32 cores per Host and launch 32 MPI tasks per host
+##PBS -l select=1:ncpus=16
+#PBS -l select=1:ncpus=4:ngpus=1
+
+## Send email to yourself. Replace the email to your own email.
+#PBS -m bea
+#PBS -M jchang015@e.ntu.edu.sg
+
+## Load the Application
+module load python/3/intel/2021.3
+source /usr/local/intel/oneapi/2021.3/setvars.sh
+source /home/jchang015/Desktop/pythonenv/bin/activate
+
+## pre-processing script
+cd $PBS_O_WORKDIR
+
+## Capture Number of Cores
+nprocs=`cat $PBS_NODEFILE|wc -l`
+
+## input file
+inputfile=ner_model.py
+
+## Run mpi program
+python $inputfile --infile='ner_args.json' >& $PBS_JOBID.log 2>&1

@@ -1,0 +1,15 @@
+{
+    "training_type": "bulk",
+    "models": [
+        "distilbert",
+        "bert",
+        "roberta"
+    ],
+    "csv_input_type": true,
+    "input_text_file": "./data/artificial100k.txt",
+    "input_full_csv": "./data/ATC_Data_full.csv",
+    "input_train_csv": "./data/GMB_train.csv",
+    "input_test_csv": "./data/ATC_Data_test.csv",
+    "train_augmentation": false,
+    "tagging_scheme": "BILOU"
+}
