@@ -1,2 +1,2 @@
 # ATC-NER
-Repo for internship documents/code
+Repo for FYP documents/code
