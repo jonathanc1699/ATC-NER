@@ -1,0 +1,17 @@
+delivery 
+ground
+tower
+approach
+arrival 
+departure
+apron
+singapore approach
+control
+new york tower
+singapore tower
+singapore departure
+zurich tower
+singapore ground
+brussels tower
+atlanta tower
+new york departure

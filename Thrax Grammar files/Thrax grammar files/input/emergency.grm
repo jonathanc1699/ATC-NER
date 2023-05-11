@@ -1,0 +1,125 @@
+## Name: Jonathan Chang
+## Role: Intern for ATC LM adaptation
+## Date: 21/02/2022
+## Description: This file provides the grammar for sentence generation for Air Traffic emergencies. It is used by atc.grm file to do sentence generation.
+## Last change: created file
+import 'example.grm' as tk;
+import 'exclamation.grm' as exclamation;
+import 'numbers.grm' as numbers;
+
+
+THREE_DIGIT_NUMS= StringFile['txt_resource_files/three_digit_num.txt'];
+THREE_DIGIT_NUM_REWRITTEN = Optimize[THREE_DIGIT_NUMS @ tk.TOKENIZER];
+THREE_DIGIT_NUM=  THREE_DIGIT_NUM_REWRITTEN;
+
+TWO_DIGIT_NUMS= StringFile['txt_resource_files/two_digit_num.txt'];
+TWO_DIGIT_NUM_REWRITTEN = Optimize[TWO_DIGIT_NUMS @ tk.TOKENIZER];
+TWO_DIGIT_NUM=  TWO_DIGIT_NUM_REWRITTEN;
+
+SINGLE_DIGIT_NUMS= StringFile['txt_resource_files/single_digit_num.txt'];
+SINGLE_DIGIT_NUM_REWRITTEN = Optimize[SINGLE_DIGIT_NUMS @ tk.TOKENIZER];
+SINGLE_DIGIT_NUM=  SINGLE_DIGIT_NUM_REWRITTEN;
+
+DIRECTIONS= StringFile['txt_resource_files/dirs.txt'];
+DIRECTION_REWRITTEN = Optimize[DIRECTIONS @ tk.TOKENIZER];
+DIRECTION= DIRECTION_REWRITTEN ;
+
+ALPHABETS= StringFile['txt_resource_files/alphabets.txt'];
+ALPHABET_REWRITTEN = Optimize[ALPHABETS @ tk.TOKENIZER];
+ALPHABET=  ALPHABET_REWRITTEN;
+
+ALTITUDE_INSTRUCTS = StringFile['txt_resource_files/altitude_instructions.txt'];
+ALTITUDE_INSTRUCT_REWRITTEN = Optimize[ALTITUDE_INSTRUCTS @ tk.TOKENIZER];
+ALTITUDE_INSTRUCT= ALTITUDE_INSTRUCT_REWRITTEN;
+
+ALTITUDES = StringFile['txt_resource_files/altitude.txt'];
+ALTITUDE_REWRITTEN = Optimize[ALTITUDES @ tk.TOKENIZER];
+ALTITUDE = ALTITUDE_REWRITTEN;
+
+RADIO_FREQS= StringFile['txt_resource_files/radio_freq.txt'];
+RADIO_FREQ_REWRITTEN = Optimize[RADIO_FREQS @ tk.TOKENIZER];
+RADIO_FREQ=  RADIO_FREQ_REWRITTEN ;
+
+RUNWAY_NAMES=StringFile['txt_resource_files/runway name.txt'];
+RUNWAY_NAME_REWRITTEN=Optimize[RUNWAY_NAMES@tk.TOKENIZER];
+RUNWAY_NAME=RUNWAY_NAME_REWRITTEN;
+
+CALLSIGNS = StringFile['txt_resource_files/callsigns.txt'];
+CALLSIGN_REWRITTEN  = Optimize[CALLSIGNS @ tk.TOKENIZER];
+CALLSIGN = CALLSIGN_REWRITTEN ;
+
+SG_WAYPOINTS = StringFile['txt_resource_files/SG_waypoints.txt'];
+SG_WAYPOINTS_REWRITTEN = Optimize[SG_WAYPOINTS @ tk.TOKENIZER];
+SG_WAYPOINT = SG_WAYPOINTS_REWRITTEN;
+
+CALLSIGNS2 = StringFile['txt_resource_files/callsigns_2.txt'];
+CALLSIGN2_REWRITTEN  = Optimize[CALLSIGNS2 @ tk.TOKENIZER];
+CALLSIGN2 = CALLSIGN2_REWRITTEN ;
+
+HEADINGS = StringFile['txt_resource_files/heading.txt'];
+HEADING_REWRITTEN = Optimize[HEADINGS @ tk.TOKENIZER];
+HEADING = HEADING_REWRITTEN;
+
+EXCLAMATION = exclamation.EXCLAMATION;
+
+FREQ_NAMES = StringFile['txt_resource_files/freq_names.txt'];
+FREQ_NAMES_REWRITTEN = Optimize[FREQ_NAMES @ tk.TOKENIZER];
+FREQ = FREQ_NAMES_REWRITTEN;
+
+EMERGENCIES = StringFile['txt_resource_files/emergency_call.txt'];
+EMERGENCIES_REWRITTEN = Optimize[EMERGENCIES @ tk.TOKENIZER];
+EMERGENCY = EMERGENCIES_REWRITTEN;
+
+export EMERGENCYSENT1= (EMERGENCY " " EMERGENCY " " EMERGENCY " " CALLSIGN " " CALLSIGN2 " we are experiencing engine vibrations") |
+                        (CALLSIGN " " CALLSIGN2 " can we require a diversion to the nearest airfield") |
+                        (CALLSIGN " " CALLSIGN2 " what is your P O B and do you have any dangerous goods on board") |
+                        (CALLSIGN " " CALLSIGN2 " what is your fuel endurance") |
+                        (CALLSIGN " " CALLSIGN2 " do you have any V I P on board") |
+                        (CALLSIGN " " CALLSIGN2 " your " EMERGENCY " call is acknowledged") |
+                        (CALLSIGN " " CALLSIGN2 " what is the nature of the emergency") |
+                        (CALLSIGN " "  THREE_DIGIT_NUM " we need to land the aircraft A S A P please") |
+                        (CALLSIGN " " CALLSIGN2 " you are number one on the approach") |
+                        (EMERGENCY " " EMERGENCY " " EMERGENCY " " CALLSIGN " " CALLSIGN2 " we have a landing gear unsafe warning") |
+                        (CALLSIGN " "  THREE_DIGIT_NUM " we have engineers on the airfield to check your landing gears while you overshoot " RUNWAY_NAME) |
+                        (CALLSIGN " " CALLSIGN2 " abort takeoff immediately i say again abort takeoff immediately") |
+                        (CALLSIGN " " CALLSIGN2 " abort takeoff i say again abort takeoff immediate " DIRECTION " turn heading " HEADING) |
+                        (CALLSIGN " " CALLSIGN2 " what is the reason for the takeoff being aborted") |
+                        (CALLSIGN " " CALLSIGN2 " runway was unsafe for takeoff as there was a foreign object on the runway") |
+                        ("standby for our intentions " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " which airfield would you be diverting to") |
+                        (CALLSIGN " " CALLSIGN2 " please update us on your intentions") |
+                        (CALLSIGN " " CALLSIGN2 " we have airport emergency services ready for you once you land") |
+                        (CALLSIGN " " CALLSIGN2 " are you able to make a landing") |
+                        (CALLSIGN " " CALLSIGN2 " requesting " RUNWAY_NAME " for an immediate approach") |
+                        (CALLSIGN " " CALLSIGN2 " stopping on runway") |
+                        (CALLSIGN " " CALLSIGN2 " will you be declaring an emergency") |
+                        ("due to our fuel situation we need to depart within the next fifteen minutes or otherwise we will need to return to the gate") |
+                        (CALLSIGN " " CALLSIGN2 " holding position to shut down engines") |
+                        (CALLSIGN " " CALLSIGN2 " checking on with you out of one and a half for " ALTITUDE " we need to stop climb at " ALTITUDE " we will advise") |
+                        (FREQ_NAMES " " CALLSIGN " " CALLSIGN2 " we are still running checklists trying to talk to company so the delay vectors if you continue would be fantastic we think we may have to return we cannot cross the atlantic with an open door indication") |
+                        ("yea i understand that turn" DIRECTION " heading " HEADING) |
+                        (HEADING " " CALLSIGN " " CALLSIGN2 " thank you for your help") |
+                        (CALLSIGN " " CALLSIGN2 " heavy say again") |
+                        (CALLSIGN " " CALLSIGN2 " just let me know if you need any assitance on the ground") |
+                        (CALLSIGN " " CALLSIGN2 " go ahead") |
+                        ("go ahead for " CALLSIGN " " CALLSIGN2) |
+                        ("yes sir we are ready to jettison now") |
+                        ("roger standing by") |
+                        (CALLSIGN " " CALLSIGN2 " when you start dumping how long do you think it will take") |
+                        (CALLSIGN " " CALLSIGN2 " do you have any preference of where you want to do this or does it not matter to you") |
+                        ("commencing fuel jettison " CALLSIGN " " CALLSIGN2) |
+                        ("attention all aircraft fuel dumping in progress " TWO_DIGIT_NUM " miles east of " SG_WAYPOINT) |
+                        ("i can vector you and join the localizer if you need") |
+                        ("standby " CALLSIGN " " CALLSIGN2 " we might have to take care of a problem") |
+                        ("ok maintain " ALTITUDE "you can stay on this frequency") |
+                        ("maintain " ALTITUDE " copied " CALLSIGN " " CALLSIGN2) |
+                        (FREQ_NAMES " we would like to return to the airfield we need about ten minutes to complete procedures and probably lose some weight") |
+                        (CALLSIGN " " CALLSIGN2 " you can expect " RUNWAY_NAME " for landing") |
+                        (CALLSIGN " " CALLSIGN2 " just to be sure no assitance needed upon landing") |
+                        (CALLSIGN " " CALLSIGN2 " let me know what your limits are please for " RUNWAY_NAME) |
+                        ("ok cleared to land " RUNWAY_NAME " in case of missed approach we would like to climb " ALTITUDE) |
+                        (EMERGENCY " " EMERGENCY " " EMERGENCY " " CALLSIGN " " CALLSIGN2 " we are experiencing cabin depressurization") |
+                        (CALLSIGN " " CALLSIGN2 " what is the nature of your emergency") |
+                        (CALLSIGN " " CALLSIGN2 " please advise the nature of the emergency when able") |
+                        ("aircraft calling " FREQ " come up on my frequency " RADIO_FREQ) |
+                        ("frequency change approved ");

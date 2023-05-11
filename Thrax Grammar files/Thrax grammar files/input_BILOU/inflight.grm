@@ -1,0 +1,178 @@
+## Name: Jonathan Chang
+## Role: Intern for ATC LM adaptation
+## Date: 16/02/2022
+## Description: This file provides the grammar for sentence generation for in-flight ATC instructions. It is used by atc.grm file to do sentence generation.
+## Last change: included 'speed' as a parameter
+
+import 'example.grm' as tk;
+import 'exclamation.grm' as exclamation;
+import 'numbers.grm' as numbers;
+
+
+THREE_DIGIT_NUMS= StringFile['txt_resource_files/three_digit_num.txt'];
+THREE_DIGIT_NUM_REWRITTEN = Optimize[THREE_DIGIT_NUMS @ tk.TOKENIZER];
+THREE_DIGIT_NUM=  THREE_DIGIT_NUM_REWRITTEN;
+
+TWO_DIGIT_NUMS= StringFile['txt_resource_files/two_digit_num.txt'];
+TWO_DIGIT_NUM_REWRITTEN = Optimize[TWO_DIGIT_NUMS @ tk.TOKENIZER];
+TWO_DIGIT_NUM=  TWO_DIGIT_NUM_REWRITTEN;
+
+SINGLE_DIGIT_NUMS= StringFile['txt_resource_files/single_digit_num.txt'];
+SINGLE_DIGIT_NUM_REWRITTEN = Optimize[SINGLE_DIGIT_NUMS @ tk.TOKENIZER];
+SINGLE_DIGIT_NUM=  SINGLE_DIGIT_NUM_REWRITTEN;
+
+DIRECTIONS= StringFile['txt_resource_files/dirs.txt'];
+DIRECTION_REWRITTEN = Optimize[DIRECTIONS @ tk.TOKENIZER];
+DIRECTION= " <DIRECTION> " DIRECTION_REWRITTEN " </DIRECTION> " ;
+
+ALPHABETS= StringFile['txt_resource_files/alphabets.txt'];
+ALPHABET_REWRITTEN = Optimize[ALPHABETS @ tk.TOKENIZER];
+ALPHABET=  " <ALPHABET> " ALPHABET_REWRITTEN " </ALPHABET> " ;
+
+RADIO_FREQS= StringFile['txt_resource_files/radio_freq.txt'];
+RADIO_FREQ_REWRITTEN = Optimize[RADIO_FREQS @ tk.TOKENIZER];
+RADIO_FREQ=  RADIO_FREQ_REWRITTEN ;
+
+HEIGHTS= StringFile['txt_resource_files/height.txt'];
+HEIGHT_REWRITTEN = Optimize[HEIGHTS @ tk.TOKENIZER];
+HEIGHT=  HEIGHT_REWRITTEN;
+
+CALLSIGNS = StringFile['txt_resource_files/callsigns.txt'];
+CALLSIGN_REWRITTEN  = Optimize[CALLSIGNS @ tk.TOKENIZER];
+CALLSIGN = " <CALLSIGN> " CALLSIGN_REWRITTEN " </CALLSIGN> " ;
+
+CALLSIGNS2 = StringFile['txt_resource_files/callsigns_2.txt'];
+CALLSIGN2_REWRITTEN  = Optimize[CALLSIGNS2 @ tk.TOKENIZER];
+CALLSIGN2 = CALLSIGN2_REWRITTEN;
+
+HEADINGS = StringFile['txt_resource_files/heading.txt'];
+HEADING_REWRITTEN = Optimize[HEADINGS @ tk.TOKENIZER];
+HEADING = HEADING_REWRITTEN ;
+
+EXCLAMATION = " <EXCLAMATION> " exclamation.EXCLAMATION " </EXCLAMATION> ";
+
+ALTITUDE_INSTRUCTS = StringFile['txt_resource_files/altitude_instructions.txt'];
+ALTITUDE_INSTRUCT_REWRITTEN = Optimize[ALTITUDE_INSTRUCTS @ tk.TOKENIZER];
+ALTITUDE_INSTRUCT= " <ALTITUDE_INSTRUCT> " ALTITUDE_INSTRUCT_REWRITTEN " </ALTITUDE_INSTRUCT> ";
+
+ALTITUDES = StringFile['txt_resource_files/altitude.txt'];
+ALTITUDE_REWRITTEN = Optimize[ALTITUDES @ tk.TOKENIZER];
+ALTITUDE = ALTITUDE_REWRITTEN ;
+
+SPEED_INSTRUCTS = StringFile['txt_resource_files/speed_instructions.txt'];
+SPEED_INSTRUCT_REWRITTEN = Optimize[SPEED_INSTRUCTS @ tk.TOKENIZER];
+SPEED_INSTRUCT= " <SPEED_INSTRUCT> " SPEED_INSTRUCT_REWRITTEN " </SPEED_INSTRUCT> ";
+
+FREQ_NAMES = StringFile['txt_resource_files/freq_names.txt'];
+FREQ_NAMES_REWRITTEN = Optimize[FREQ_NAMES @ tk.TOKENIZER];
+FREQ = " <FREQ_NAME> " FREQ_NAMES_REWRITTEN " </FREQ_NAME> ";
+
+SPEEDS = StringFile['txt_resource_files/speed.txt'];
+SPEEDS_REWRITTEN = Optimize[SPEEDS @ tk.TOKENIZER];
+SPEED = SPEEDS_REWRITTEN;
+
+SG_WAYPOINTS = StringFile['txt_resource_files/SG_waypoints.txt'];
+SG_WAYPOINTS_REWRITTEN = Optimize[SG_WAYPOINTS @ tk.TOKENIZER];
+SG_WAYPOINT = " <WAYPOINT> " SG_WAYPOINTS_REWRITTEN " </WAYPOINT> ";
+
+TIMES = StringFile['txt_resource_files/time.txt'];
+TIMES_REWRITTEN = Optimize[TIMES @ tk.TOKENIZER];
+TIME = " <TIME> " TIMES_REWRITTEN " </TIME> " ;
+
+RUNWAY_NAMES=StringFile['txt_resource_files/runway name.txt'];
+RUNWAY_NAME_REWRITTEN=Optimize[RUNWAY_NAMES@tk.TOKENIZER];
+RUNWAY_NAME= RUNWAY_NAME_REWRITTEN;
+
+export INFLIGHTSENT1 = (CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " " ALTITUDE) |
+                        (ALTITUDE_INSTRUCT " " ALTITUDE " "CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <ACTION> turn </ACTION> " DIRECTION " <HEADING> heading </HEADING> " HEADING) |
+                        (" <ACTION> turn </ACTION> " DIRECTION " <HEADING> heading </HEADING> " HEADING " " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " " SPEED_INSTRUCT " speed " SPEED " <SPEED> knots </SPEED> ") |
+                        (SPEED_INSTRUCT " speed " SPEED " <SPEED> knots </SPEED> " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <ACTION> contact </ACTION> " FREQ " " RADIO_FREQ) |
+                        (RADIO_FREQ " "CALLSIGN " " CALLSIGN2 " " EXCLAMATION) |
+                        (" <ACTION> switching to </ACTION> " RADIO_FREQ " "CALLSIGN " " CALLSIGN2) |
+                        (" <ACTION> switching to </ACTION> " FREQ " " RADIO_FREQ "  "CALLSIGN " " CALLSIGN2) |
+                        (" <ACTION> contact </ACTION> " FREQ " "CALLSIGN " " CALLSIGN2) |
+                        (FREQ " " EXCLAMATION " " CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " " ALTITUDE " <O> we are a seven four seven information </O> " ALPHABET) |
+                        (CALLSIGN " " CALLSIGN2 " <ACTION> continue on the </ACTION> " SG_WAYPOINT " <WAYPOINT> one " ALPHABET " </WAYPOINT> <O> expect holding at </O> " SG_WAYPOINT " <O> and further clearance at </O> <TIME> time </TIME> " TIME ) |
+                        (" <TIME> time </TIME> " TIME " <O> we have a holding speed of </O> " SPEED " <SPEED> knots </SPEED> <QUERY> is that approved </QUERY> "CALLSIGN " " CALLSIGN2 ) |
+                        (CALLSIGN " " CALLSIGN2 " " SPEED " <SPEED> knots </SPEED> <O> approved </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> affirm </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> please confirm our clearance </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " " ALTITUDE " <ACTION> enter the hold at </ACTION> " SG_WAYPOINT " <O> expect further clearance at <TIME> time </TIME> " TIME) |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> can we get an E A T as soon as possible </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> E A T </O> " TIME) |
+                        (CALLSIGN " " CALLSIGN2 " <O> roger standby </O> ") |
+                        (" <REQUEST> requesting to take up the hold at position </REQUEST> " SG_WAYPOINT " <O> because it is closest to our diversion airfield </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> we are having an issue with fuel </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> exit the hold track direct to </O> " SG_WAYPOINT " <O> you are number </O> <NUMBER> " SINGLE_DIGIT_NUM " </NUMBER> <O> for approach </O>") |
+                        (CALLSIGN " " CALLSIGN2 " <O> departure identified </O> " ALTITUDE_INSTRUCT " " ALTITUDE) |
+                        (CALLSIGN " " CALLSIGN2 " <REQUEST> request for holding pattern </REQUEST> ") |
+                        (CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " " ALTITUDE " <CLEARANCE> cleared I L S approach </CLEARANCE> " RUNWAY_NAME) |
+                        (CALLSIGN " " CALLSIGN2 " <REQUEST> request </REQUEST> <HEADING> heading </HEADING> " HEADING) |
+                        (CALLSIGN " " CALLSIGN2 " <O> passing </O> " ALTITUDE " <O> for </O> " ALTITUDE) |
+                        (" <O> copy </O> " CALLSIGN " " CALLSIGN2 " <ACTION> fly </ACTION> <HEADING> heading </HEADING>" HEADING) |
+                        (CALLSIGN " " CALLSIGN2) |
+                        (" <O> negative </O> " ALTITUDE_INSTRUCT " " ALTITUDE) |
+                        (CALLSIGN " " CALLSIGN2 " <O> report passing </O> " ALTITUDE) |
+                        (CALLSIGN " " CALLSIGN2 " <O> heavy </O> " DIRECTION " <ACTION> turn heading </ACTION> " HEADING) |
+                        (" <ACTION> heavy turn </ACTION> " HEADING " " CALLSIGN " " CALLSIGN2) |
+                        (FREQ " " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " " FREQ " <O> go ahead </O> ") |
+                        (FREQ " " CALLSIGN " " CALLSIGN2 " <O> we are currently holding over </O> " SG_WAYPOINT) |
+                        (CALLSIGN " " CALLSIGN2 " <O> report finals </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> finals </O> " RUNWAY_NAME) |
+                        (FREQ " " CALLSIGN " " CALLSIGN2 " " EXCLAMATION) |
+                        (FREQ " " EXCLAMATION " " CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " " ALTITUDE " <O> we are a seven four seven information </O> " ALPHABET) |
+                        (CALLSIGN " " CALLSIGN2 " " SPEED_INSTRUCT " <O> speed </O> " SPEED " <ACTION> continue approach </ACTION> " RUNWAY_NAME " <O> you are number </O> <NUMBER> " SINGLE_DIGIT_NUM " </NUMBER> the wind " HEADING " <HEADING> degrees </HEADING> <NUMBER> " SINGLE_DIGIT_NUM " </NUMBER> <SPEED> knots </SPEED> ") |
+                        (SPEED " <SPEED> knots </SPEED> <O> number " SINGLE_DIGIT_NUM " </O> " CALLSIGN " " CALLSIGN2) |
+                        (FREQ " " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <ACTION> contact </ACTION> " FREQ " " RADIO_FREQ " " EXCLAMATION) |
+                        (ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (" <EXCLAMATION> thanks </EXCLAMATION> " CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " <ALTITUDE_INSTRUCT> and maintain </ALTITUDE_INSTRUCT> " ALTITUDE " <O> when able direct </O> " SG_WAYPOINT) |
+                        (CALLSIGN " " CALLSIGN2 " <FREQ_NAME> regional departure </FREQ_NAME> <O> radar contact </O> " ALTITUDE_INSTRUCT " <ALTITUDE_INSTRUCT> and maintain </ALTITUDE_INSTRUCT> " ALTITUDE " <ACTION> turn </ACTION> " DIRECTION " <HEADING> heading </HEADING> " HEADING) |
+                        (CALLSIGN " " CALLSIGN2 " <EXCLAMATION> good day </EXCLAMATION> ") |
+                        (CALLSIGN " " CALLSIGN2 " " DIRECTION " <HEADING> heading </HEADING> " HEADING) |
+                        (CALLSIGN " " CALLSIGN2 " <O> roger </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <HEADING> heading </HEADING> " HEADING) |
+                        (CALLSIGN " " CALLSIGN2 " <FREQ_NAME> departure </FREQ_NAME> <ALTITUDE_INSTRUCT> climb and maintain </ALTITUDE_INSTRUCT> " ALTITUDE)  |
+                        (CALLSIGN " " CALLSIGN2 " " RADIO_FREQ) |
+                        (" <O> out of </O> " ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (" <EXCLAMATION> thanks </EXCLAMATION> " CALLSIGN " " CALLSIGN2 " <ALTITUDE_INSTRUCT> maintain </ALTITUDE_INSTRUCT> " ALTITUDE) |
+                        (CALLSIGN " " CALLSIGN2 " " FREQ " <EXCLAMATION> good morning </EXCLAMATION> ") |                       
+                        (CALLSIGN " " CALLSIGN2 " <O> roger we got them both in sight </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <SPEED_INSTRUCT> reduce speed to </SPEED_INSTRUCT> " SPEED " <O> at </O> " ALTITUDE) |
+                        (" <O> down to </O> " ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (" <O> that's approved </O> " CALLSIGN " " CALLSIGN2) |
+                        (" <O> roger </O> <ALTITUDE_INSTRUCT> maintain </ALTITUDE_INSTRUCT> " ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (" <O> on the hold </O> " CALLSIGN " " CALLSIGN2) |
+                        (HEADING " <O> now for </O> " CALLSIGN " " CALLSIGN2 " <O> roger </O> ") |
+                        (" <ACTION> fly </ACTION> " HEADING " <O> the turn to final </O> <CLEARANCE> you're cleared visual approach </CLEARANCE> " RUNWAY_NAME) |
+                        (HEADING " " CALLSIGN " " CALLSIGN2) |
+                        (" <CLEARANCE> cleared visual </CLEARANCE> " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <SPEED_INSTRUCT> do not exceed </SPEED_INSTRUCT> " SPEED " <SPEED> knots </SPEED> ") |
+                        (" <O> direct to </O> " SG_WAYPOINT " " CALLSIGN " " CALLSIGN2) |
+                        (" <O> traffic in sight </O> " CALLSIGN " " CALLSIGN2 " <EXCLAMATION> good morning </EXCLAMATION> ") |
+                        (CALLSIGN " " CALLSIGN2 " <ACTION> turn </ACTION> " DIRECTION " <HEADING> heading </HEADING> " HEADING " <ACTION> intercept the i l s </ACTION> " RUNWAY_NAME " <O> localizer </O> ") |
+                        (RADIO_FREQ " <O> and </O> " ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (" <HEADING> heading </HEADING> " HEADING " <ACTION> intercept the localizer </ACTION> " CALLSIGN " " CALLSIGN2) |
+                        (" <HEADING> heading </HEADING> " HEADING " <O> now </O> " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <O> up to </O> " ALTITUDE) |
+                        (" <EXCLAMATION> morning </EXCLAMATION> " CALLSIGN " " CALLSIGN2 " " ALTITUDE) |
+                        (" <O> thats affirmative </O> " CALLSIGN " " CALLSIGN2) |
+                        (" <ACTION> turning </ACTION> " DIRECTION " <O> to </O> " HEADING " " CALLSIGN " " CALLSIGN2) |
+                        (RADIO_FREQ " <O> for </O> " CALLSIGN " " CALLSIGN2 " <EXCLAMATION> good day </EXCLAMATION> ") |
+                        (RADIO_FREQ " <HEADING> heading </HEADING> " HEADING " " CALLSIGN " " CALLSIGN2) |
+                        (DIRECTION " " HEADING " " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <O> ident </O> ") |
+                        (HEADING " <O> the heading </O> " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <FREQ_NAME> approach </FREQ_NAME> <ACTION> fly </ACTION> <HEADING> heading </HEADING> " HEADING) |
+                        (" <O> roger </O> <ALTITUDE_INSTRUCT> maintain </ALTITUDE_INSTRUCT> " ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (" <FREQ_NAME> approach </FREQ_NAME> " CALLSIGN " " CALLSIGN2 " <O> checking in </O> " ALTITUDE " <O> for </O> " ALTITUDE) |
+                        (CALLSIGN " " CALLSIGN2 " <ACTION> contact </ACTION> <FREQ_NAME> approach </FREQ_NAME> <O> on </O>" RADIO_FREQ) |
+                        (" <O> correction </O> " CALLSIGN " " CALLSIGN2 " " ALTITUDE_INSTRUCT " <ALTITUDE_INSTRUCT> and maintain </ALTITUDE_INSTRUCT> " ALTITUDE) |
+                        (" <O> over to </O> " FREQ " " CALLSIGN " " CALLSIGN2 " <EXCLAMATION> good day </EXCLAMATION> ") |
+                        (DIRECTION " <O> to </O> " HEADING " <O> and </O> <ACTION> join the localizer </ACTION> <O> for </O> " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                        (" <ALTITUDE_INSTRUCT> go to </ALTITUDE_INSTRUCT> " ALTITUDE " " CALLSIGN " " CALLSIGN2) |
+                        (HEADING " <HEADING> heading </HEADING> " ALTITUDE " " CALLSIGN " " CALLSIGN2); 

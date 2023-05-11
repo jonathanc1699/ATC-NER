@@ -1,0 +1,39 @@
+Metro Ground
+Metro Tower
+Stand Bravo 1
+Metro Delivery
+Smallville
+T1A
+holding point Alpha
+holding point Bravo
+holding point Charlie
+holding point Delta
+holding point Echo
+holding point Foxtrot
+holding point Golf
+holding point Hotel
+holding point India
+holding point Juliett
+holding point Kilo
+holding point Lima
+holding point Mike
+holding point November
+holding point Oscar
+holding point Papa
+holding point Quebec
+holding point Romeo
+holding point Sierra
+holding point Tango
+holding point Uniform
+holding point Victor
+holding point Whiskey
+holding point X-ray
+holding point Yankee 
+holding point Zulu
+Control Tower
+Terminal 1
+Terminal 2
+Terminal 3
+Terminal 4
+Terminal 5
+International Terminal

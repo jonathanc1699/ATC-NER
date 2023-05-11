@@ -1,0 +1,13 @@
+{
+	"input_folder" : "input_BILOU",
+	"entry_grm" : "atc.grm",
+	"far_file" : "atc.far",
+	"exp_id" : "atc_1",
+	"exp_description": "This is test script for atc file",
+	"num_of_output_sentence": 2000,
+	"generate_bilou" : "TRUE",
+	"output_folder" : "Pipeline/output/",
+	"txt_file_name" : "atctest.txt",
+	"log_file" : "test.log"
+}
+

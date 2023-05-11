@@ -1,0 +1,84 @@
+500 feet
+1000 feet
+1500 feet
+2000 feet
+2500 feet
+3000 feet
+3500 feet
+4000 feet
+4500 feet
+5000 feet
+5500 feet
+6000 feet
+6500 feet
+7000 feet
+7500 feet
+8000 feet
+8500 feet
+9000 feet
+9500 feet
+10000 feet
+flight level 1 0 5
+flight level 1 1 0
+flight level 1 1 5
+flight level 1 2 0 
+flight level 1 2 5
+flight level 1 3 0
+flight level 1 3 5
+flight level 1 4 0
+flight level 1 4 5
+flight level 1 5 0
+flight level 1 5 5 
+flight level 1 6 0
+flight level 1 6 5
+flight level 1 7 0
+flight level 1 7 5
+flight level 1 8 0
+flight level 1 8 5
+flight level 1 9 0
+flight level 1 9 5
+flight level 2 0 0
+flight level 2 0 5
+flight level 2 1 0
+flight level 2 1 5
+flight level 2 2 0
+flight level 2 2 5
+flight level 2 3 0
+flight level 2 3 5
+flight level 2 4 0
+flight level 2 4 5
+flight level 2 5 0
+flight level 2 5 5
+flight level 2 6 0
+flight level 2 6 5
+flight level 2 7 0
+flight level 2 7 5
+flight level 2 8 0
+flight level 2 8 5
+flight level 2 9 0
+flight level 2 9 5
+flight level 3 0 0
+flight level 3 0 5
+flight level 3 1 0
+flight level 3 1 5
+flight level 3 2 0
+flight level 3 2 5
+flight level 3 3 0
+flight level 3 3 5
+flight level 3 4 0
+flight level 3 4 5
+flight level 3 5 0
+flight level 3 5 5
+flight level 3 6 0
+flight level 3 6 5
+flight level 3 7 0
+flight level 3 7 5
+flight level 3 8 0
+flight level 3 8 5
+flight level 3 9 0
+flight level 3 9 5
+flight level 4 0 0
+flight level 4 0 5
+flight level 4 1 0
+flight level 4 1 5
+flight level 4 2 0

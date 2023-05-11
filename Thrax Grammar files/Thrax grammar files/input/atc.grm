@@ -1,0 +1,18 @@
+## Name: Jonathan Chang
+## Role: Intern for ATC LM adaptation
+## Date: 16/02/2022
+## Description: This file is used by thrax to compile all the grammar files to be exported for sentence generation.
+## How to generate sentences: 
+## thraxmakedep atc.grm
+## make
+## thraxrandom-generator --far=atc.far --rule=random_sentence --noutput=100 > output.txt
+## run fix_txt.py
+## Last change: added emergencies
+
+import 'inflight.grm' as inflight;
+import 'taxi.grm' as taxi;
+import 'emergency.grm' as emergency;
+
+##export random_sentence = taxi.TAXISENT1;
+export random_sentence = inflight.INFLIGHTSENT1;
+##export random_sentence = emergency.EMERGENCYSENT1;

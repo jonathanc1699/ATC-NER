@@ -1,0 +1,120 @@
+## Name: Jonathan Chang
+## Role: Intern for ATC LM adaptation
+## Date: 20/02/2022
+## Description: This file provides the grammar for sentence generation for ATC taxiing/ground instructions. It is used by atc.grm file to do sentence generation.
+## Last change: added more grammar sentences 
+
+import 'example.grm' as tk;
+import 'exclamation.grm' as exclamation;
+import 'numbers.grm' as numbers;
+
+
+THREE_DIGIT_NUMS= StringFile['txt_resource_files/three_digit_num.txt'];
+THREE_DIGIT_NUM_REWRITTEN = Optimize[THREE_DIGIT_NUMS @ tk.TOKENIZER];
+THREE_DIGIT_NUM=  THREE_DIGIT_NUM_REWRITTEN;
+
+TWO_DIGIT_NUMS= StringFile['txt_resource_files/two_digit_num.txt'];
+TWO_DIGIT_NUM_REWRITTEN = Optimize[TWO_DIGIT_NUMS @ tk.TOKENIZER];
+TWO_DIGIT_NUM=  TWO_DIGIT_NUM_REWRITTEN;
+
+SINGLE_DIGIT_NUMS= StringFile['txt_resource_files/single_digit_num.txt'];
+SINGLE_DIGIT_NUM_REWRITTEN = Optimize[SINGLE_DIGIT_NUMS @ tk.TOKENIZER];
+SINGLE_DIGIT_NUM=  SINGLE_DIGIT_NUM_REWRITTEN;
+
+DIRECTIONS= StringFile['txt_resource_files/dirs.txt'];
+DIRECTION_REWRITTEN = Optimize[DIRECTIONS @ tk.TOKENIZER];
+DIRECTION= DIRECTION_REWRITTEN ;
+
+ALPHABETS= StringFile['txt_resource_files/alphabets.txt'];
+ALPHABET_REWRITTEN = Optimize[ALPHABETS @ tk.TOKENIZER];
+ALPHABET=  ALPHABET_REWRITTEN;
+
+RADIO_FREQS= StringFile['txt_resource_files/radio_freq.txt'];
+RADIO_FREQ_REWRITTEN = Optimize[RADIO_FREQS @ tk.TOKENIZER];
+RADIO_FREQ=  RADIO_FREQ_REWRITTEN ;
+
+RUNWAY_NAMES=StringFile['txt_resource_files/runway name.txt'];
+RUNWAY_NAME_REWRITTEN=Optimize[RUNWAY_NAMES@tk.TOKENIZER];
+RUNWAY_NAME=RUNWAY_NAME_REWRITTEN;
+
+CALLSIGNS = StringFile['txt_resource_files/callsigns.txt'];
+CALLSIGN_REWRITTEN  = Optimize[CALLSIGNS @ tk.TOKENIZER];
+CALLSIGN = CALLSIGN_REWRITTEN ;
+
+CALLSIGNS2 = StringFile['txt_resource_files/callsigns_2.txt'];
+CALLSIGN2_REWRITTEN  = Optimize[CALLSIGNS2 @ tk.TOKENIZER];
+CALLSIGN2 = CALLSIGN2_REWRITTEN ;
+
+HEADINGS = StringFile['txt_resource_files/heading.txt'];
+HEADING_REWRITTEN = Optimize[HEADINGS @ tk.TOKENIZER];
+HEADING = HEADING_REWRITTEN;
+
+EXCLAMATION = exclamation.EXCLAMATION;
+
+FREQ_NAMES = StringFile['txt_resource_files/freq_names.txt'];
+FREQ_NAMES_REWRITTEN = Optimize[FREQ_NAMES @ tk.TOKENIZER];
+FREQ = FREQ_NAMES_REWRITTEN;
+
+export TAXISENT1 = (CALLSIGN " " CALLSIGN2 " hold short of " RUNWAY_NAME " at " ALPHABET) |
+                    ("hold short of " RUNWAY_NAME " at " ALPHABET " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " surface wind " HEADING " degrees " SINGLE_DIGIT_NUM " knots " RUNWAY_NAME " clear for take off") |
+                    ("clear for take off " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " taxi via " ALPHABET " and " ALPHABET " hold short of " RUNWAY_NAME) |
+                    (CALLSIGN " " CALLSIGN2 " taxi to " ALPHABET " contact " FREQ " " RADIO_FREQ ) |
+                    ("contact " FREQ " " RADIO_FREQ " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " ready to taxi ") |
+                    (CALLSIGN " " CALLSIGN2 " ground " RUNWAY_NAME " taxi via " ALPHABET) |
+                    (CALLSIGN " " CALLSIGN2 " expect late landing clearance") |
+                    (CALLSIGN " " CALLSIGN2 " go around " DIRECTION " turn heading " HEADING ) |
+                    (CALLSIGN " " CALLSIGN2 " fully ready") |
+                    (CALLSIGN " " CALLSIGN2 " hold position") |
+                    (CALLSIGN " " CALLSIGN2 " line up " RUNWAY_NAME) |
+                    ("line up " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " established I L S " RUNWAY_NAME) |
+                    (CALLSIGN " " CALLSIGN2 " report established I L S") |
+                    ("say again " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " " EXCLAMATION " start up and pushback approved") |
+                    (CALLSIGN " " CALLSIGN2 " request taxi") |
+                    (CALLSIGN " " CALLSIGN2 " taxi straight ahead on " ALPHABET " to holding position " ALPHABET " " SINGLE_DIGIT_NUM) |
+                    (CALLSIGN " " CALLSIGN2 " line up " RUNWAY_NAME) |
+                    (CALLSIGN " " CALLSIGN2 " " FREQ " " EXCLAMATION " continue approach " RUNWAY_NAME " number " SINGLE_DIGIT_NUM " wind " THREE_DIGIT_NUM " degrees " SINGLE_DIGIT_NUM " knots") |
+                    ("continue approach " CALLSIGN " " CALLSIGN2) |
+                    ("cleared for takeoff " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " standby") |
+                    ("ok " CALLSIGN " " CALLSIGN2 " standby") |
+                    ("thank you " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " line up and wait " RUNWAY_NAME) |
+                    (CALLSIGN " " CALLSIGN2 " hold position there is a car of the airport authority crossing left to right i will call you shortly") |
+                    ("holding position " CALLSIGN " " CALLSIGN2) |
+                    ("we would like to taxi to stand " CALLSIGN " " CALLSIGN2) |
+                    ("taxi along the runway and vacate to the " DIRECTION " via " ALPHABET " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " roger taxi along the runway and vacate to the " DIRECTION " via " ALPHABET) |
+                    ("go ahead for " CALLSIGN " " CALLSIGN2) |
+                    ("thank you we are also able to accept another runway") |
+                    (CALLSIGN " " CALLSIGN2 " the runway has been inspected nothing found so far") |
+                    (CALLSIGN " " CALLSIGN2 " are you able to taxi forward on " ALPHABET " and hold short of inner") |
+                    ("roger taxi to stand " ALPHABET  " " SINGLE_DIGIT_NUM) |
+                    (ALPHABET " " SINGLE_DIGIT_NUM " thank you") |
+                    (CALLSIGN " " CALLSIGN2 " on taxiway " ALPHABET " cross " RUNWAY_NAME " contact now " FREQ " " RADIO_FREQ " for further taxi") |
+                    (CALLSIGN " " CALLSIGN2 " " FREQ " " RUNWAY_NAME " taxi into position and hold traffic departing") |
+                    ("cleared to land " RUNWAY_NAME " thank you " CALLSIGN " " CALLSIGN2)|
+                    (CALLSIGN " " CALLSIGN2 " taxi into position and hold traffic will use the other two runways") |
+                    ("cleared to land " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " are you up") |
+                    (CALLSIGN " " CALLSIGN2 " " RUNWAY_NAME " you are cleared to land wind calm") |
+                    (CALLSIGN " " CALLSIGN2 " cleared to cross") |
+                    (CALLSIGN " " CALLSIGN2 " heavy " RUNWAY_NAME " fly heading " HEADING " cleared for takeoff") |
+                    ("position and hold " RADIO_FREQ " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " cross " RUNWAY_NAME " hold short of the " DIRECTION) |
+                    ("ground " RADIO_FREQ " off " RUNWAY_NAME " " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " turn " DIRECTION " hold short of " RUNWAY_NAME " stay with me traffic crossing down field") |
+                    ("cleared for takeoff " CALLSIGN " " CALLSIGN2) |
+                    (CALLSIGN " " CALLSIGN2 " " RUNWAY_NAME " taxi into position and hold") |
+                    ("position and hold " RUNWAY_NAME) |
+                    (RADIO_FREQ " " CALLSIGN " " CALLSIGN2 " heavy") |
+                    (CALLSIGN " " CALLSIGN2 " cross " RUNWAY_NAME " contact " FREQ) |
+                    (CALLSIGN " " CALLSIGN2 " you need to go where") |
+                    ("hold short " CALLSIGN " " CALLSIGN2 " stay with you") |
+                    ("cleared to cross " RADIO_FREQ " on the other side " CALLSIGN " " CALLSIGN2) |
+                    ("position and hold " RUNWAY_NAME) |
+                    ("cleared for takeoff " RUNWAY_NAME " at the middle marker " CALLSIGN " " CALLSIGN2);

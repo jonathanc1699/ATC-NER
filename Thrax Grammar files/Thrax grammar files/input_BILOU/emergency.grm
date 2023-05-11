@@ -1,0 +1,129 @@
+## Name: Jonathan Chang
+## Role: Intern for ATC LM adaptation
+## Date: 21/02/2022
+## Description: This file provides the grammar for sentence generation for Air Traffic emergencies. It is used by atc.grm file to do sentence generation.
+## Last change: created file
+import 'example.grm' as tk;
+import 'exclamation.grm' as exclamation;
+import 'numbers.grm' as numbers;
+
+
+THREE_DIGIT_NUMS= StringFile['txt_resource_files/three_digit_num.txt'];
+THREE_DIGIT_NUM_REWRITTEN = Optimize[THREE_DIGIT_NUMS @ tk.TOKENIZER];
+THREE_DIGIT_NUM=  THREE_DIGIT_NUM_REWRITTEN;
+
+TWO_DIGIT_NUMS= StringFile['txt_resource_files/two_digit_num.txt'];
+TWO_DIGIT_NUM_REWRITTEN = Optimize[TWO_DIGIT_NUMS @ tk.TOKENIZER];
+TWO_DIGIT_NUM=  TWO_DIGIT_NUM_REWRITTEN;
+
+SINGLE_DIGIT_NUMS= StringFile['txt_resource_files/single_digit_num.txt'];
+SINGLE_DIGIT_NUM_REWRITTEN = Optimize[SINGLE_DIGIT_NUMS @ tk.TOKENIZER];
+SINGLE_DIGIT_NUM=  SINGLE_DIGIT_NUM_REWRITTEN;
+
+DIRECTIONS= StringFile['txt_resource_files/dirs.txt'];
+DIRECTION_REWRITTEN = Optimize[DIRECTIONS @ tk.TOKENIZER];
+DIRECTION= " <DIRECTION> " DIRECTION_REWRITTEN " </DIRECTION> ";
+
+ALPHABETS= StringFile['txt_resource_files/alphabets.txt'];
+ALPHABET_REWRITTEN = Optimize[ALPHABETS @ tk.TOKENIZER];
+ALPHABET= " <ALPHABET> " ALPHABET_REWRITTEN " </ALPHABET> ";
+
+ALTITUDE_INSTRUCTS = StringFile['txt_resource_files/altitude_instructions.txt'];
+ALTITUDE_INSTRUCT_REWRITTEN = Optimize[ALTITUDE_INSTRUCTS @ tk.TOKENIZER];
+ALTITUDE_INSTRUCT= " <ALTITUDE_INSTRUCT> " ALTITUDE_INSTRUCT_REWRITTEN " </ALTITUDE_INSTRUCT> ";
+
+ALTITUDES = StringFile['txt_resource_files/altitude.txt'];
+ALTITUDE_REWRITTEN = Optimize[ALTITUDES @ tk.TOKENIZER];
+ALTITUDE = ALTITUDE_REWRITTEN ;
+
+RADIO_FREQS= StringFile['txt_resource_files/radio_freq.txt'];
+RADIO_FREQ_REWRITTEN = Optimize[RADIO_FREQS @ tk.TOKENIZER];
+RADIO_FREQ= " <FREQUENCY> " RADIO_FREQ_REWRITTEN " </FREQUENCY> " ;
+
+RUNWAY_NAMES=StringFile['txt_resource_files/runway name.txt'];
+RUNWAY_NAME_REWRITTEN=Optimize[RUNWAY_NAMES@tk.TOKENIZER];
+RUNWAY_NAME= RUNWAY_NAME_REWRITTEN ;
+
+CALLSIGNS = StringFile['txt_resource_files/callsigns.txt'];
+CALLSIGN_REWRITTEN  = Optimize[CALLSIGNS @ tk.TOKENIZER];
+CALLSIGN = " <CALLSIGN> " CALLSIGN_REWRITTEN " </CALLSIGN> ";
+
+SG_WAYPOINTS = StringFile['txt_resource_files/SG_waypoints.txt'];
+SG_WAYPOINTS_REWRITTEN = Optimize[SG_WAYPOINTS @ tk.TOKENIZER];
+SG_WAYPOINT = " <WAYPOINT> " SG_WAYPOINTS_REWRITTEN " </WAYPOINT> ";
+
+CALLSIGNS2 = StringFile['txt_resource_files/callsigns_2.txt'];
+CALLSIGN2_REWRITTEN  = Optimize[CALLSIGNS2 @ tk.TOKENIZER];
+CALLSIGN2 =  CALLSIGN2_REWRITTEN ;
+
+HEADINGS = StringFile['txt_resource_files/heading.txt'];
+HEADING_REWRITTEN = Optimize[HEADINGS @ tk.TOKENIZER];
+HEADING = HEADING_REWRITTEN ;
+
+EXCLAMATION = " <EXCLAMATION> " exclamation.EXCLAMATION " </EXCLAMATION> ";
+
+FREQ_NAMES = StringFile['txt_resource_files/freq_names.txt'];
+FREQ_NAMES_REWRITTEN = Optimize[FREQ_NAMES @ tk.TOKENIZER];
+FREQ = " <FREQ_NAME> " FREQ_NAMES_REWRITTEN " </FREQ_NAME> ";
+
+EMERGENCIES = StringFile['txt_resource_files/emergency_call.txt'];
+EMERGENCIES_REWRITTEN = Optimize[EMERGENCIES @ tk.TOKENIZER];
+EMERGENCY = " <EMERGENCY> " EMERGENCIES_REWRITTEN " </EMERGENCY> ";
+
+TAXIPOINTS= StringFile['txt_resource_files/taxipoint.txt'];
+TAXIPOINTS_REWRITTEN = Optimize[TAXIPOINTS @ tk.TOKENIZER];
+TAXIPOINT=  TAXIPOINTS_REWRITTEN;
+
+export EMERGENCYSENT1= (EMERGENCY " " EMERGENCY " " EMERGENCY " " CALLSIGN " " CALLSIGN2 " <O> we are experiencing engine vibrations </O> ")|
+                        (CALLSIGN " " CALLSIGN2 " <REQUEST> we require a diversion to the nearest airfield </REQUEST> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> what is your P O B and do you have any dangerous goods on board </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> what is your fuel endurance </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> do you have any V I P on board </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> your </O> " EMERGENCY " <O> call is acknowledged </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> what is the nature of the emergency </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <REQUEST> we need to land the aircraft A S A P please </REQUEST> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> you are number </O> <NUMBER> one </NUMBER> <O> on the approach </O> ") |
+                        (EMERGENCY " " EMERGENCY " " EMERGENCY " " CALLSIGN " " CALLSIGN2 " <O> we have a landing gear unsafe warning </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> we have engineers on the airfield to check your landing gears while you overshoot </O> " RUNWAY_NAME) |
+                        (CALLSIGN " " CALLSIGN2 " <O> abort takeoff immediately i say again abort takeoff immediately </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> abort takeoff i say again abort takeoff immediate </O> " DIRECTION " <ACTION> turn heading </ACTION> " HEADING) |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> what is the reason for the takeoff being aborted </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> runway was unsafe for takeoff as there was a foreign object on the runway </O> ") |
+                        (" <O> standby for our intentions </O> " CALLSIGN " " CALLSIGN2) |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> which airfield would you be diverting to </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> please update us on your intentions </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> we have airport emergency services ready for you once you land </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> are you able to make a landing </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> requesting </O> " RUNWAY_NAME " <O> for an immediate approach </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> stopping on runway </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> will you be declaring an emergency </QUERY> ") |
+                        (" <O> due to our fuel situation we need to depart within the next </O> <NUMBER> fifteen </NUMBER> <TIME> minutes </TIME> <O> or otherwise we will need to return to the gate </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> holding position to shut down engines </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> checking on with you out of one and a half for </O> " ALTITUDE " <O> we need to </O> <ALTITUDE_INSTRUCT> stop climb </ALTITUDE_INSTRUCT> <O> at </O> " ALTITUDE " <O> we will advise </O> ") |
+                        (FREQ " " CALLSIGN " " CALLSIGN2 " <O> we are still running checklists trying to talk to company so the delay vectors if you continue would be fantastic we think we may have to return we cannot cross the atlantic with an open door indication </O> ") |
+                        (" <O> yea i understand that </O> <ACTION> turn </ACTION> " DIRECTION " <HEADING> heading </HEADING>" HEADING) |
+                        (HEADING " " CALLSIGN " " CALLSIGN2 " <EXCLAMATION> thank you for your help </EXCLAMATION> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O>  heavy say again </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> just let me know if you need any assitance on the ground </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> go ahead </O> ") |
+                        (" <O> go ahead for </O> " CALLSIGN " " CALLSIGN2) |
+                        (" <O> yes sir we are ready to jettison now </O> ") |
+                        (" <O> roger standing by </O>") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> when you start dumping how long do you think it will take </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> do you have any preference of where you want to do this or does it not matter to you </QUERY> ") |
+                        (" <O> commencing fuel jettison </O> " CALLSIGN " " CALLSIGN2) |
+                        (" <O> attention all aircraft fuel dumping in progress </O> " TWO_DIGIT_NUM " <O> miles east of </O> " SG_WAYPOINT) |
+                        (" <O> i can vector you and join the localizer if you need </O> ") |
+                        (" <O> standby </O> " CALLSIGN " " CALLSIGN2 " <O> we might have to take care of a problem </O> ") |
+                        (" <O> ok </O> <ALTITUDE_INSTRUCT> maintain </ALTITUDE_INSTRUCT> " ALTITUDE " <O> you can stay on this frequency </O> ") |
+                        (" <ALTITUDE_INSTRUCT> maintain </ALTITUDE_INSTRUCT> " ALTITUDE " <O> copied </O> " CALLSIGN " " CALLSIGN2) |
+                        (FREQ " <O> we would like to return to the airfield we need about ten minutes to complete procedures and probably lose some weight </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> you can expect </O> " RUNWAY_NAME " <O> for landing </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <O> just to be sure no assitance needed upon landing </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> let me know what your limits are please for </QUERY> " RUNWAY_NAME) |
+                        (" <O> ok </O> <CLEARANCE> cleared to land </CLEARANCE> " RUNWAY_NAME " <O> in case of missed approach we would like to </O> <ALTITUDE_INSTRUCT> climb </ALTITUDE_INSTRUCT> " ALTITUDE) |
+                        (EMERGENCY " " EMERGENCY " " EMERGENCY " " CALLSIGN " " CALLSIGN2 " <O> we are experiencing cabin depressurization </O> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> what is the nature of your emergency </QUERY> ") |
+                        (CALLSIGN " " CALLSIGN2 " <QUERY> please advise the nature of the emergency when able </QUERY> ") |
+                        (" <O> aircraft calling </O> " FREQ " <O> come up on my frequency </O> " RADIO_FREQ) |
+                        (" <O> frequency change approved </O> ");
